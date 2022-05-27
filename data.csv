@@ -1,6 +1,6 @@
-id,title,url,category,dead,revision
-1,"Is everything we eat associated with cancer? A systematic cookbook review",https://doi.org/10.3945/ajcn.112.047142,science,0,"2022-05-25"
-2,"Knowing When To Fold `Em: The Science of Poker",https://blogs.scientificamerican.com/cocktail-party-physics/knowing-when-to-fold-em-the-science-of-poker/,games,0,"2022-05-25"
-3,"BBC Future column: The Psychology Of Tetris",https://mindhacks.com/2012/10/29/bbc-future-column-the-psychology-of-tetris/,games,0,"2022-05-25"
-4,"An option value problem from Seinfeld",https://doi.org/10.1111/j.1465-7295.2011.00377.x,tv,0,"2022-05-25"
-5,"List of frivolous political parties",https://en.wikipedia.org/wiki/List_of_frivolous_political_parties,politics,0,"2022-05-25"
+id,title,url,category,revision
+1,"Is everything we eat associated with cancer? A systematic cookbook review",https://doi.org/10.3945/ajcn.112.047142,science,"2022-05-25"
+2,"Knowing When To Fold `Em: The Science of Poker",https://blogs.scientificamerican.com/cocktail-party-physics/knowing-when-to-fold-em-the-science-of-poker/,games,"2022-05-25"
+3,"BBC Future column: The Psychology Of Tetris",https://mindhacks.com/2012/10/29/bbc-future-column-the-psychology-of-tetris/,games,"2022-05-25"
+4,"An option value problem from Seinfeld",https://doi.org/10.1111/j.1465-7295.2011.00377.x,tv,"2022-05-25"
+5,"List of frivolous political parties",https://en.wikipedia.org/wiki/List_of_frivolous_political_parties,politics,"2022-05-25"
