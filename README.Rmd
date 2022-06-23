@@ -1,0 +1,176 @@
+---
+output: md_document
+---
+
+# Links
+
+```{r include=FALSE}
+knitr::opts_chunk$set(comment = NULL)
+```
+
+```{r introCode, echo=FALSE, message=FALSE, warning=FALSE}
+library("tidyverse")
+library("kableExtra")
+df_raw <- read_csv("data.csv")
+df <- df_raw |> 
+   transmute(title = paste0("[", title, "](", url, ")"), category)
+
+```
+
+The repository consists of a dataset with curated links to great material. There is a total of `r NROW(df)` active links in the dataset. 
+
+# TODO
+
+- add categories:  "business" "climate" "design" "economics" "ethics" "food"  "news"  "politics" "privacy" "programming"  "reasoning" 
+
+# Life
+
+```{r linksLife, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "life") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+
+# Work
+
+```{r linksWork, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "work") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Science
+
+## Biology
+
+```{r linksBiology, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "biology") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Physics
+
+```{r linksPhysics, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "physics") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Psychology
+
+```{r linksPsychology, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "psychology") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Culture
+
+## Art
+
+```{r linksArt, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "art") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Books
+
+```{r linksBooks, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "books") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Movies
+
+```{r linksMovies, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "movies") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## TV
+
+```{r linksTV, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "tv") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Music
+
+```{r linksMusic, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "music") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Games
+
+```{r linksGames, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "games") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+
+# Language
+
+## English
+
+```{r linksEnglish, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "english") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Health
+
+```{r linksHealth, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "health") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Sport
+
+```{r linksSport, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "sport") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Transport
+
+```{r linksTransport, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "transport") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Essays
+
+```{r linksEssays, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "essay") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
