@@ -21,7 +21,7 @@ The repository consists of a dataset with curated links to great material. There
 
 # TODO
 
-- add categories:  "business" "climate" "design" "economics" "ethics" "food"  "news"  "politics" "privacy" "programming"  "reasoning" 
+- add categories:  "climate" "design" "ethics" "news" "politics" "privacy" "programming"
 
 # Life
 
@@ -38,6 +38,15 @@ df |>
 ```{r linksWork, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "work") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Food
+
+```{r linksFood, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "food") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
@@ -70,6 +79,35 @@ df |>
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
+
+# Economics
+
+```{r linksEconomics, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "economics") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+
+# Business
+
+```{r linksBusiness, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "business") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Reasoning
+
+```{r linksReasoning, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "reasoning") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 
 # Culture
 
@@ -127,6 +165,14 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+### Chess
+
+```{r linksChess, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "chess") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
 
 # Language
 
@@ -138,6 +184,36 @@ df |>
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
+
+# Travel
+
+```{r linksTravel, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "travel") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Countries
+
+## Germany
+
+```{r linksGermany, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "Germany") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Russia
+
+```{r linksRussia, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "Russia") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 
 # Health
 
