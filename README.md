@@ -1,11 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 77 active links in the dataset.
-
-# TODO
-
--   add categories: “climate” “design” “ethics” “news” “politics” “privacy” “programming”
+material. There is a total of 94 active links in the dataset.
 
 # Life
 
@@ -14,6 +10,7 @@ material. There is a total of 77 active links in the dataset.
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/) 
 * [I Thought I Would Have Accomplished a Lot More Today and Also by the Time I Was Thirty-Five](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five) 
 * [My year in data](https://samplesize.one/blog/posts/my_year_in_data/) 
+* [Map of my personal data infrastructure](https://beepb00p.xyz/myinfra.html) 
 
 # Work
 
@@ -30,6 +27,8 @@ material. There is a total of 77 active links in the dataset.
 
 * [How Nespresso's coffee revolution got ground down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment) 
 * [Tea Reviews](https://www.gwern.net/reviews/Tea) 
+* [How Long Does a Bottle of Wine Last After It Is Opened?](https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened) 
+* [What do you want to cook?](https://based.cooking/) 
 
 # Science
 
@@ -42,6 +41,7 @@ material. There is a total of 77 active links in the dataset.
 
 
 * [So You Want to Learn Physics…](https://www.susanrigetti.com/physics) 
+* [The moving sofa problem](https://www.math.ucdavis.edu/~romik/movingsofa/) 
 
 ## Psychology
 
@@ -51,6 +51,7 @@ material. There is a total of 77 active links in the dataset.
 * [Electric Schlock: Did Stanley Milgram's Famous Obedience Experiments Prove Anything?](https://psmag.com/social-justice/electric-schlock-65377) 
 * [My top 12 favourite perceptual illusions](https://twitter.com/SteveStuWill/status/1050345335145422849) 
 * [The psychology of torture](https://aeon.co/essays/is-it-time-to-stop-doing-any-more-milgram-experiments) 
+* [How a Publicity Blitz Created The Myth of Subliminal Advertising](http://www.repiev.ru/doc/subliminal.pdf) 
 
 # Economics
 
@@ -59,11 +60,43 @@ material. There is a total of 77 active links in the dataset.
 * [The economics of vending machines](https://thehustle.co/the-economics-of-vending-machines/) 
 * [Radical Jokes](https://web.archive.org/web/20180101064057/https://www.nyu.edu/projects/ollman/docs/jokes_content.php) 
 
+# Climate
+
+
+* [What can a technologist do about climate change?](http://worrydream.com/ClimateChange/) 
+* [A Guide to Climate Change](https://neilkakkar.com/climate-change.html) 
+* [Pollution](https://patrickcollison.com/pollution) 
+* [We Need To Take CO2 Out Of The Sky](https://www.orbuch.com/carbon-removal/) 
+* [What if it’s a big hoax and we create a better world for nothing?](https://www.gocomics.com/joelpett/2009/12/13) 
+* [A Data-Driven Guide to Effective Personal Climate Action](https://erikareinhardt.com/personal-climate-action) 
+
 # Business
 
 
 * [Memos](https://sriramk.com/memos) 
 * [The Observer Effect – Daniel Ek](https://www.theobservereffect.org/daniel.html) 
+
+# Programming
+
+
+* [Programmer Competency Matrix](https://sijinjoseph.com/programmer-competency-matrix/) 
+
+# Privacy
+
+
+* [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) 
+
+# Ethics
+
+
+* [Refrigerator safety study: Case study analysis](https://doi.org/10.1177/1747016113489934) 
+* [Research Ethics Timeline](https://www.niehs.nih.gov/research/resources/bioethics/timeline/index.cfm) 
+
+# Technology
+
+
+* [The documentation system](https://documentation.divio.com/) 
+* [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html) 
 
 # Reasoning
 
@@ -78,6 +111,7 @@ material. There is a total of 77 active links in the dataset.
 
 
 * [Van Gogh's Ugliest Masterpiece](https://www.youtube.com/watch?v=nKNAZr0QJzs) 
+* [Revising the Canon: How Andy Warhol Became the Most Important American Modern Artist](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778740) 
 
 ## Books
 
@@ -85,6 +119,7 @@ material. There is a total of 77 active links in the dataset.
 * [Who Did J.K. Rowling Become?](https://www.vulture.com/article/who-did-j-k-rowling-become.html) 
 * [BOOKSTORES: How to Read More Books in the Golden Age of Content](https://www.youtube.com/watch?v=lIW5jBrrsS0) 
 * [The Art Of Sci-Fi Book Covers](https://www.youtube.com/watch?v=M7Qm_UJML54) 
+* [Why Do We Keep Reading The Great Gatsby?](https://www.theparisreview.org/blog/2021/01/11/why-do-we-keep-reading-the-great-gatsby/) 
 
 ## Movies
 
@@ -93,6 +128,8 @@ material. There is a total of 77 active links in the dataset.
 * [How The Shawshank Redemption Humanizes Prisoners](https://www.youtube.com/watch?v=rhGJ5SmSE2o) 
 * [Sexual Assault of Men Played for Laughs - Part 1 Male Perpetrators](https://www.youtube.com/watch?v=uc6QxD2_yQw) 
 * [The Making of “The Godfather”—Sort of a Home Movie](http://www.thestacksreader.com/the-making-of-the-godfather-sort-of-a-home-movie/) 
+* [James Bond Movies Ranked: The Absolute Best of Bond](https://www.cnet.com/culture/entertainment/james-bond-movies-ranked-the-absolute-best-of-bond/) 
+* [Il Maestro: Federico Fellini and the lost magic of cinema](https://harpers.org/archive/2021/03/il-maestro-federico-fellini-martin-scorsese/) 
 
 ## TV
 
@@ -105,6 +142,7 @@ material. There is a total of 77 active links in the dataset.
 * [A beginner's guide to modern art jazz](https://lukemuehlhauser.com/a-beginners-guide-to-modern-art-jazz/) 
 * [Exploring the Sonic Cocktail of Beastie Boys' PAUL'S BOUTIQUE](https://www.youtube.com/watch?v=W-z4MpMxS8g) 
 * [64 Reasons To Celebrate Paul McCartney](https://ianleslie.substack.com/p/64-reasons-to-celebrate-paul-mccartney) 
+* [Beatport’s Definitive History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/) 
 
 ## Games
 
@@ -115,6 +153,7 @@ material. There is a total of 77 active links in the dataset.
 * [This Is What a Second-Person Video Game Would Look Like](https://www.youtube.com/watch?v=mC8QoRa8y_Q) 
 * [A Brief History of Word Games](https://www.theparisreview.org/blog/2020/03/23/a-brief-history-of-word-games/) 
 * [Games on GitHub](https://github.com/leereilly/games) 
+* [The Making Of: Dust 2](https://www.johnsto.co.uk/design/making-dust2/) 
 
 ### Chess
 
@@ -165,6 +204,20 @@ material. There is a total of 77 active links in the dataset.
 
 
 * [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets) 
+
+# Politics
+
+
+* [List of frivolous political parties](https://en.wikipedia.org/wiki/List_of_frivolous_political_parties) 
+
+# Design
+
+
+* [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces) 
+* [Bastion forts around the world](https://twitter.com/xruiztru/status/1264480689413636096) 
+* [50 tips to improve user interface](https://fifty.user-interface.io/50_ui_tips.pdf) 
+* [What I learnt roasting 200 landing pages in 12 months](https://blog.roastmylandingpage.com/landing-page-roasts/) 
+* [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/) 
 
 # Essays
 

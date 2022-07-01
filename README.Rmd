@@ -19,10 +19,6 @@ df <- df_raw |>
 
 The repository consists of a dataset with curated links to great material. There is a total of `r NROW(df)` active links in the dataset. 
 
-# TODO
-
-- add categories:  "climate" "design" "ethics" "news" "politics" "privacy" "programming"
-
 # Life
 
 ```{r linksLife, echo=FALSE, message=FALSE, warning=FALSE}
@@ -89,12 +85,56 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+# Climate
+
+```{r linksClimate, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "climate") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
 
 # Business
 
 ```{r linksBusiness, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "business") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Programming
+
+```{r linksProgramming, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "programming") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Privacy
+
+```{r linksPrivacy, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "privacy") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Ethics
+
+```{r linksEthics, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "ethics") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Technology
+
+```{r linksTechnology, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "technology") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
@@ -241,6 +281,25 @@ df |>
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
+
+# Politics
+
+```{r linksPolitics, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "politics") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Design
+
+```{r linksDesign, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "design") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 
 # Essays
 
