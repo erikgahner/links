@@ -214,7 +214,23 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+# Knowledge
+
+```{r linksKnowledge, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "knowledge") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 # Language
+
+```{r linksLanguage, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "language") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
 
 ## English
 
@@ -235,6 +251,15 @@ df |>
 ```
 
 # Countries
+
+## Denmark
+
+```{r linksDenmark, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "Denmark") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
 
 ## Germany
 

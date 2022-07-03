@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 94 active links in the dataset.
+material. There is a total of 141 active links in the dataset.
 
 # Life
 
@@ -11,6 +11,9 @@ material. There is a total of 94 active links in the dataset.
 * [I Thought I Would Have Accomplished a Lot More Today and Also by the Time I Was Thirty-Five](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five) 
 * [My year in data](https://samplesize.one/blog/posts/my_year_in_data/) 
 * [Map of my personal data infrastructure](https://beepb00p.xyz/myinfra.html) 
+* [Life tips](https://lanekenworthy.net/life-tips/) 
+* [100 Very Short Rules for a Better Life](https://forge.medium.com/100-very-short-rules-for-a-better-life-f7f5191c7586) 
+* [How I practice at what I do](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html) 
 
 # Work
 
@@ -21,6 +24,10 @@ material. There is a total of 94 active links in the dataset.
 * [How I work](http://www.princeton.edu/~pkrugman/howiwork.html) 
 * [Anticipatory Procrastination](https://pages.cs.wisc.edu/~elder/stuff/ant-proc.pdf) 
 * [Trading time for money](https://nicolasbouliane.com/blog/trading-time-for-money) 
+* [Why you should put salaries on your job ads](https://sifted.eu/articles/job-advert-salary-range/) 
+* [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout) 
+* [Hundreds of Ways to Get S#!+ Done—and We Still Don’t](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) 
+* ['I'll Finish It This Week' And Other Lies](https://arxiv.org/abs/2103.16574) 
 
 # Food
 
@@ -29,6 +36,8 @@ material. There is a total of 94 active links in the dataset.
 * [Tea Reviews](https://www.gwern.net/reviews/Tea) 
 * [How Long Does a Bottle of Wine Last After It Is Opened?](https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened) 
 * [What do you want to cook?](https://based.cooking/) 
+* [On the impracticality of a cheeseburger](https://waldo.jaquith.org/blog/2011/12/impractical-cheeseburger/) 
+* [In Praise of Small Menus](https://www.grubstreet.com/2021/06/in-praise-of-small-menus.html) 
 
 # Science
 
@@ -52,6 +61,8 @@ material. There is a total of 94 active links in the dataset.
 * [My top 12 favourite perceptual illusions](https://twitter.com/SteveStuWill/status/1050345335145422849) 
 * [The psychology of torture](https://aeon.co/essays/is-it-time-to-stop-doing-any-more-milgram-experiments) 
 * [How a Publicity Blitz Created The Myth of Subliminal Advertising](http://www.repiev.ru/doc/subliminal.pdf) 
+* [PSY 1 | Introduction to Psychological Science | Lectures](https://stevenpinker.com/psy-1-introduction-psychological-science-lectures) 
+* [Reversals in psychology](https://www.gleech.org/psych) 
 
 # Economics
 
@@ -59,6 +70,9 @@ material. There is a total of 94 active links in the dataset.
 * [The economics of Christmas trees](https://thehustle.co/the-economics-of-christmas-trees/) 
 * [The economics of vending machines](https://thehustle.co/the-economics-of-vending-machines/) 
 * [Radical Jokes](https://web.archive.org/web/20180101064057/https://www.nyu.edu/projects/ollman/docs/jokes_content.php) 
+* [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/) 
+* [Unemployment: Models and policies](https://www.pascalmichaillat.org/t1.html) 
+* [A Fable of the OC](https://www.econlib.org/library/Columns/y2006/Mungeropportunitycost.html) 
 
 # Climate
 
@@ -69,12 +83,17 @@ material. There is a total of 94 active links in the dataset.
 * [We Need To Take CO2 Out Of The Sky](https://www.orbuch.com/carbon-removal/) 
 * [What if it’s a big hoax and we create a better world for nothing?](https://www.gocomics.com/joelpett/2009/12/13) 
 * [A Data-Driven Guide to Effective Personal Climate Action](https://erikareinhardt.com/personal-climate-action) 
+* [Climate Solutions 101](https://drawdown.org/climate-solutions-101) 
+* [What does global warming spell for you… and your loved ones?](https://kontinentalist.com/stories/how-do-boomers-millennials-and-gen-z-feel-global-warming-differently) 
+* [How will climate change shape climate opinion?](https://iopscience.iop.org/article/10.1088/1748-9326/ab466a) 
+* [Place-Based Carbon Calculator](https://www.carbon.place/) 
 
 # Business
 
 
 * [Memos](https://sriramk.com/memos) 
 * [The Observer Effect – Daniel Ek](https://www.theobservereffect.org/daniel.html) 
+* [The PayPal Mafia](https://web.archive.org/web/20180708044946/https://fortune.com/2007/11/13/paypal-mafia/) 
 
 # Programming
 
@@ -97,6 +116,11 @@ material. There is a total of 94 active links in the dataset.
 
 * [The documentation system](https://documentation.divio.com/) 
 * [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html) 
+* [The 9/11 Pager Leaks](https://www.youtube.com/watch?v=inigBzDU8mw) 
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 
+* [A decade and a half of instability: The history of Google messaging apps](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/) 
+* [Objective or Biased](https://interaktiv.br.de/ki-bewerbung/en/) 
+* [Open Source Alternatives](https://www.btw.so/open-source-alternatives) 
 
 # Reasoning
 
@@ -104,6 +128,7 @@ material. There is a total of 94 active links in the dataset.
 * [How To Understand Things](https://nabeelqu.co/understanding) 
 * [In 40 tweets I will describe 40 powerful concepts for understanding the world](https://twitter.com/g_s_bhogal/status/1225561131122597896) 
 * [Here are 50 ideas that shape my worldview](https://twitter.com/david_perell/status/1259597720752291841) 
+* [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes](https://arxiv.org/abs/0812.4360) 
 
 # Culture
 
@@ -112,6 +137,7 @@ material. There is a total of 94 active links in the dataset.
 
 * [Van Gogh's Ugliest Masterpiece](https://www.youtube.com/watch?v=nKNAZr0QJzs) 
 * [Revising the Canon: How Andy Warhol Became the Most Important American Modern Artist](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778740) 
+* [Louvre site des collections](https://collections.louvre.fr/en/) 
 
 ## Books
 
@@ -130,11 +156,17 @@ material. There is a total of 94 active links in the dataset.
 * [The Making of “The Godfather”—Sort of a Home Movie](http://www.thestacksreader.com/the-making-of-the-godfather-sort-of-a-home-movie/) 
 * [James Bond Movies Ranked: The Absolute Best of Bond](https://www.cnet.com/culture/entertainment/james-bond-movies-ranked-the-absolute-best-of-bond/) 
 * [Il Maestro: Federico Fellini and the lost magic of cinema](https://harpers.org/archive/2021/03/il-maestro-federico-fellini-martin-scorsese/) 
+* [A Supercut of Supercuts: Aesthetics, Histories, Databases](http://doi.org/10.16995/os.45) 
+* [UbuWeb: Film & Video](https://ubu.com/film/) 
+* [A Visual Guide to The Big Lebowski](https://www.fluidencodings.com/projects/big-lebowski/) 
 
 ## TV
 
 
 * [An option value problem from Seinfeld](https://doi.org/10.1111/j.1465-7295.2011.00377.x) 
+* [Through Scandinavia, Darkly: A Criminological Critique of Nordic Noir](https://doi.org/10.1093/bjc/azaa044) 
+* [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/) 
+* [Into the Fairy Castle: The Persistence of Victorian Liberalism](https://americanaffairsjournal.org/2021/08/into-the-fairy-castle-the-persistence-of-victorian-liberalism/) 
 
 ## Music
 
@@ -143,6 +175,7 @@ material. There is a total of 94 active links in the dataset.
 * [Exploring the Sonic Cocktail of Beastie Boys' PAUL'S BOUTIQUE](https://www.youtube.com/watch?v=W-z4MpMxS8g) 
 * [64 Reasons To Celebrate Paul McCartney](https://ianleslie.substack.com/p/64-reasons-to-celebrate-paul-mccartney) 
 * [Beatport’s Definitive History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/) 
+* [The 500 Greatest Songs of All Time](https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/kanye-west-stronger-1224837/) 
 
 ## Games
 
@@ -154,13 +187,24 @@ material. There is a total of 94 active links in the dataset.
 * [A Brief History of Word Games](https://www.theparisreview.org/blog/2020/03/23/a-brief-history-of-word-games/) 
 * [Games on GitHub](https://github.com/leereilly/games) 
 * [The Making Of: Dust 2](https://www.johnsto.co.uk/design/making-dust2/) 
+* [How Flash games shaped the video game industry](https://www.flashgamehistory.com/) 
+* [10 Positions Chess Engines Just Don't Understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand) 
+* [The Hotline Miami Story](https://www.youtube.com/watch?v=ilKzuY9tjyg) 
 
 ### Chess
 
 
 * [A Beginner's Garden of Chess Openings](https://dwheeler.com/chess-openings/) 
 
+# Knowledge
+
+
+* [User:Emijrp/All Human Knowledge](https://www.wikidata.org/wiki/User:Emijrp/All_Human_Knowledge) 
+
 # Language
+
+
+* [Eunoia: Words That Don't Translate](https://eunoia.world/) 
 
 ## English
 
@@ -174,6 +218,11 @@ material. There is a total of 94 active links in the dataset.
 * [This Is Why Your Holiday Travel Is Awful](https://www.politico.com/amp/news/magazine/2019/11/29/penn-station-robert-caro-073564) 
 
 # Countries
+
+## Denmark
+
+
+* [Some observations about life in Denmark vs. life in the US](https://medium.com/@SergeBelongie/some-observations-about-life-in-denmark-vs-life-in-the-us-dd81ca4949a9) 
 
 ## Germany
 
@@ -193,17 +242,21 @@ material. There is a total of 94 active links in the dataset.
 * [A curated list of awesome articles, websites and resources about mental health in the software industry](https://github.com/dreamingechoes/awesome-mental-health) 
 * [On The Exciting Subject Of Earwax And Unsupported Medical Arguments](https://www.residentcontrarian.com/p/on-the-exciting-subject-of-earwax) 
 * [96 hour No-Sleep Challenge](https://mattlakeman.org/2020/05/11/96-hour-no-sleep-challenge/) 
+* [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life) 
+* [The invisible addiction: is it time to give up caffeine?](https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up) 
 
 # Sport
 
 
 * [The economics of the Tour de France](https://thehustle.co/the-economics-of-the-tour-de-france/) 
 * [Why Do Tennis Crowds Have to Be So Quiet?](https://www.atlasobscura.com/articles/why-are-tennis-crowds-quiet) 
+* [The 1904 Olympic Marathon May Have Been the Strangest Ever](https://www.smithsonianmag.com/history/the-1904-olympic-marathon-may-have-been-the-strangest-ever-14910747/) 
 
 # Transport
 
 
 * [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets) 
+* [We Should All Be More Afraid of Driving](https://www.theatlantic.com/ideas/archive/2021/05/car-accident/618766/) 
 
 # Politics
 
@@ -218,6 +271,7 @@ material. There is a total of 94 active links in the dataset.
 * [50 tips to improve user interface](https://fifty.user-interface.io/50_ui_tips.pdf) 
 * [What I learnt roasting 200 landing pages in 12 months](https://blog.roastmylandingpage.com/landing-page-roasts/) 
 * [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/) 
+* [The 25 Most Significant Works of Postwar Architecture](https://www.nytimes.com/2021/08/02/t-magazine/significant-postwar-architecture.html) 
 
 # Essays
 
@@ -227,3 +281,5 @@ material. There is a total of 94 active links in the dataset.
 * [The real David Attenborough](https://www.theguardian.com/tv-and-radio/2019/oct/22/david-attenborough-climate-change-bbc) 
 * [Pain & Gain](https://www.miaminewtimes.com/news/pain-and-gain-6396870) 
 * [The Big Here and Long Now](https://longnow.org/essays/big-here-long-now/) 
+* [Myanmar Burning](https://www.reuters.com/investigates/section/myanmar-rohingya/) 
+* [Twenty Years Gone: What Bobby McIlvaine Left Behind](https://www.theatlantic.com/magazine/archive/2021/09/twenty-years-gone-911-bobby-mcilvaine/619490/) 
