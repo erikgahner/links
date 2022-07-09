@@ -261,6 +261,15 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+## United Kingdom
+
+```{r linksUK, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "UK") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 ## Germany
 
 ```{r linksGermany, echo=FALSE, message=FALSE, warning=FALSE}

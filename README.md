@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 141 active links in the dataset.
+material. There is a total of 178 active links in the dataset.
 
 # Life
 
@@ -14,6 +14,8 @@ material. There is a total of 141 active links in the dataset.
 * [Life tips](https://lanekenworthy.net/life-tips/) 
 * [100 Very Short Rules for a Better Life](https://forge.medium.com/100-very-short-rules-for-a-better-life-f7f5191c7586) 
 * [How I practice at what I do](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html) 
+* [The 24 Hour “Do Nothing” Challenge](https://mattlakeman.org/2020/12/08/the-24-hour-do-nothing-challenge/) 
+* [20 Reasons To Quit Social Media](https://durmonski.com/life-advice/reasons-to-quit-social-media/) 
 
 # Work
 
@@ -28,6 +30,8 @@ material. There is a total of 141 active links in the dataset.
 * [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout) 
 * [Hundreds of Ways to Get S#!+ Done—and We Still Don’t](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) 
 * ['I'll Finish It This Week' And Other Lies](https://arxiv.org/abs/2103.16574) 
+* [An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed) 
+* [you should ask for more money when you get a job offer. here’s how.](https://www.askamanager.org/2021/08/ask-for-more-money-with-that-job-offer-heres-how.html) 
 
 # Food
 
@@ -73,6 +77,7 @@ material. There is a total of 141 active links in the dataset.
 * [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/) 
 * [Unemployment: Models and policies](https://www.pascalmichaillat.org/t1.html) 
 * [A Fable of the OC](https://www.econlib.org/library/Columns/y2006/Mungeropportunitycost.html) 
+* [Potterian Economics](https://mpra.ub.uni-muenchen.de/76344/1/MPRA_paper_76344.pdf) 
 
 # Climate
 
@@ -99,6 +104,7 @@ material. There is a total of 141 active links in the dataset.
 
 
 * [Programmer Competency Matrix](https://sijinjoseph.com/programmer-competency-matrix/) 
+* [Programming and Writing](http://antirez.com/news/135) 
 
 # Privacy
 
@@ -121,6 +127,8 @@ material. There is a total of 141 active links in the dataset.
 * [A decade and a half of instability: The history of Google messaging apps](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/) 
 * [Objective or Biased](https://interaktiv.br.de/ki-bewerbung/en/) 
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) 
+* [First You Make the Maps](https://www.laphamsquarterly.org/trade-maps/index.html) 
+* [The messy business of sand mining explained](https://graphics.reuters.com/GLOBAL-ENVIRONMENT/SAND/ygdpzekyavw/) 
 
 # Reasoning
 
@@ -138,6 +146,7 @@ material. There is a total of 141 active links in the dataset.
 * [Van Gogh's Ugliest Masterpiece](https://www.youtube.com/watch?v=nKNAZr0QJzs) 
 * [Revising the Canon: How Andy Warhol Became the Most Important American Modern Artist](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778740) 
 * [Louvre site des collections](https://collections.louvre.fr/en/) 
+* [Great Art Explained](https://www.youtube.com/channel/UCePDFpCr78_qmVtpoB1Axaw) 
 
 ## Books
 
@@ -159,6 +168,9 @@ material. There is a total of 141 active links in the dataset.
 * [A Supercut of Supercuts: Aesthetics, Histories, Databases](http://doi.org/10.16995/os.45) 
 * [UbuWeb: Film & Video](https://ubu.com/film/) 
 * [A Visual Guide to The Big Lebowski](https://www.fluidencodings.com/projects/big-lebowski/) 
+* [Why James Bond gets constantly reinvented](https://www.youtube.com/watch?v=WUXGgZL6W7U) 
+* [Through Agnes Varda's Looking Glass](https://www.youtube.com/watch?v=NNE-YaIgdzw) 
+* [Stanley Kubrick, cinephile](https://www2.bfi.org.uk/news-opinion/sight-sound-magazine/polls-surveys/stanley-kubrick-cinephile) 
 
 ## TV
 
@@ -167,6 +179,7 @@ material. There is a total of 141 active links in the dataset.
 * [Through Scandinavia, Darkly: A Criminological Critique of Nordic Noir](https://doi.org/10.1093/bjc/azaa044) 
 * [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/) 
 * [Into the Fairy Castle: The Persistence of Victorian Liberalism](https://americanaffairsjournal.org/2021/08/into-the-fairy-castle-the-persistence-of-victorian-liberalism/) 
+* [The Fall of The Simpsons: How it Happened](https://www.youtube.com/watch?v=KqFNbCcyFkk) 
 
 ## Music
 
@@ -176,6 +189,7 @@ material. There is a total of 141 active links in the dataset.
 * [64 Reasons To Celebrate Paul McCartney](https://ianleslie.substack.com/p/64-reasons-to-celebrate-paul-mccartney) 
 * [Beatport’s Definitive History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/) 
 * [The 500 Greatest Songs of All Time](https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/kanye-west-stronger-1224837/) 
+* [A Beginner’s Guide to Miles Davis](https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/) 
 
 ## Games
 
@@ -190,6 +204,13 @@ material. There is a total of 141 active links in the dataset.
 * [How Flash games shaped the video game industry](https://www.flashgamehistory.com/) 
 * [10 Positions Chess Engines Just Don't Understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand) 
 * [The Hotline Miami Story](https://www.youtube.com/watch?v=ilKzuY9tjyg) 
+* [Doc Pop's One-Dimensional Chess](https://docpop.gumroad.com/l/1DChess) 
+* [Deep Play? Video Games and the Historical Imaginary](https://doi.org/10.1093/ahr/rhab002) 
+* [History of Grand Theft Auto (1984 – 2021)](https://www.youtube.com/watch?v=poKPUS7pu5Y) 
+* [ESL Classics: Rapha vs. Cooller](https://www.youtube.com/watch?v=XdkDjsBiO58) 
+* [Why medieval city-builder video games are historically inaccurate](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate) 
+* [The Rocks and Minerals of Minecraft](https://www.mindat.org/a/minecraft) 
+* [HATETRIS](https://qntm.org/hatetris) 
 
 ### Chess
 
@@ -200,11 +221,14 @@ material. There is a total of 141 active links in the dataset.
 
 
 * [User:Emijrp/All Human Knowledge](https://www.wikidata.org/wiki/User:Emijrp/All_Human_Knowledge) 
+* [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions) 
+* [Getting Access to Paywalled Articles](https://jaranta.github.io/getting-access-to-paywalled-articles/) 
 
 # Language
 
 
 * [Eunoia: Words That Don't Translate](https://eunoia.world/) 
+* [Surprising shared word etymologies](https://www.danielde.dev/blog/surprising-shared-word-etymologies/) 
 
 ## English
 
@@ -223,6 +247,12 @@ material. There is a total of 141 active links in the dataset.
 
 
 * [Some observations about life in Denmark vs. life in the US](https://medium.com/@SergeBelongie/some-observations-about-life-in-denmark-vs-life-in-the-us-dd81ca4949a9) 
+
+## United Kingdom
+
+
+* [I made a map of Central London museums... there are a lot](https://www.reddit.com/r/london/comments/h8tc2q/i_made_a_map_of_central_london_museums_there_are/) 
+* [Can you see the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/) 
 
 ## Germany
 
@@ -272,6 +302,11 @@ material. There is a total of 141 active links in the dataset.
 * [What I learnt roasting 200 landing pages in 12 months](https://blog.roastmylandingpage.com/landing-page-roasts/) 
 * [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/) 
 * [The 25 Most Significant Works of Postwar Architecture](https://www.nytimes.com/2021/08/02/t-magazine/significant-postwar-architecture.html) 
+* [Star Trek + Design](https://star-trek.design/) 
+* [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics) 
+* [Read color hex codes](https://metafizzy.co/blog/read-color-hex-codes/) 
+* [How I Experience Web Today](https://how-i-experience-web-today.com/) 
+* [Why are hyperlinks blue?](https://blog.mozilla.org/internet-culture/deep-dives/why-are-hyperlinks-blue/) 
 
 # Essays
 
@@ -283,3 +318,5 @@ material. There is a total of 141 active links in the dataset.
 * [The Big Here and Long Now](https://longnow.org/essays/big-here-long-now/) 
 * [Myanmar Burning](https://www.reuters.com/investigates/section/myanmar-rohingya/) 
 * [Twenty Years Gone: What Bobby McIlvaine Left Behind](https://www.theatlantic.com/magazine/archive/2021/09/twenty-years-gone-911-bobby-mcilvaine/619490/) 
+* [Tom’s Essay](https://web.archive.org/web/20181110011535/https://opinionator.blogs.nytimes.com/2008/09/23/toms-essay/) 
+* [One Day—and One Night—in the Kitchen at Les Halles](https://www.newyorker.com/magazine/2021/09/06/magazine20000417hells-kitchen) 
