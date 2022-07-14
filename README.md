@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 178 active links in the dataset.
+material. There is a total of 210 active links in the dataset.
 
 # Life
 
@@ -16,6 +16,9 @@ material. There is a total of 178 active links in the dataset.
 * [How I practice at what I do](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html) 
 * [The 24 Hour “Do Nothing” Challenge](https://mattlakeman.org/2020/12/08/the-24-hour-do-nothing-challenge/) 
 * [20 Reasons To Quit Social Media](https://durmonski.com/life-advice/reasons-to-quit-social-media/) 
+* [A Time-Series Analysis of my Girlfriends Mood Swings](https://jabde.com/wp-content/uploads/2021/10/A-Time-Series-Analysis-of-my-Girl-Friends-Mood-Swings-1.pdf) 
+* [Ultimate Meaning: We Don’t Have It, We Can’t Get It, and We Should Be Very, Very Sad](https://journalofcontroversialideas.org/article/1/1/132) 
+* [Ten Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life) 
 
 # Work
 
@@ -32,6 +35,7 @@ material. There is a total of 178 active links in the dataset.
 * ['I'll Finish It This Week' And Other Lies](https://arxiv.org/abs/2103.16574) 
 * [An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed) 
 * [you should ask for more money when you get a job offer. here’s how.](https://www.askamanager.org/2021/08/ask-for-more-money-with-that-job-offer-heres-how.html) 
+* [Mise-en-Place for Knowledge Workers: 6 Practices for Working Clean](https://fortelabs.co/blog/mise-en-place-for-knowledge-workers/) 
 
 # Food
 
@@ -42,8 +46,12 @@ material. There is a total of 178 active links in the dataset.
 * [What do you want to cook?](https://based.cooking/) 
 * [On the impracticality of a cheeseburger](https://waldo.jaquith.org/blog/2011/12/impractical-cheeseburger/) 
 * [In Praise of Small Menus](https://www.grubstreet.com/2021/06/in-praise-of-small-menus.html) 
+* [The food timeline: food history research service](https://foodtimeline.org/) 
 
 # Science
+
+
+* [The Phrase 'No Evidence' Is A Red Flag For Bad Science Communication](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag) 
 
 ## Biology
 
@@ -78,6 +86,7 @@ material. There is a total of 178 active links in the dataset.
 * [Unemployment: Models and policies](https://www.pascalmichaillat.org/t1.html) 
 * [A Fable of the OC](https://www.econlib.org/library/Columns/y2006/Mungeropportunitycost.html) 
 * [Potterian Economics](https://mpra.ub.uni-muenchen.de/76344/1/MPRA_paper_76344.pdf) 
+* [A critical behavioural economics and behavioural science reading list](https://www.jasoncollins.blog/a-critical-behavioural-economics-and-behavioural-science-reading-list/) 
 
 # Climate
 
@@ -93,6 +102,12 @@ material. There is a total of 178 active links in the dataset.
 * [How will climate change shape climate opinion?](https://iopscience.iop.org/article/10.1088/1748-9326/ab466a) 
 * [Place-Based Carbon Calculator](https://www.carbon.place/) 
 
+# Nature
+
+
+* [Everything You Might Want to Know about Whaling](https://mattlakeman.org/2021/06/01/everything-you-might-want-to-know-about-whaling/) 
+* [Remarkable Trees Throughout The World](https://mossandfog.com/remarkable-trees-throughout-the-world/) 
+
 # Business
 
 
@@ -105,6 +120,7 @@ material. There is a total of 178 active links in the dataset.
 
 * [Programmer Competency Matrix](https://sijinjoseph.com/programmer-competency-matrix/) 
 * [Programming and Writing](http://antirez.com/news/135) 
+* [The History of Command Palettes: How Typing Commands Became The Norm Again](https://capiche.com/e/consumer-dev-tools-command-palette) 
 
 # Privacy
 
@@ -129,6 +145,7 @@ material. There is a total of 178 active links in the dataset.
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) 
 * [First You Make the Maps](https://www.laphamsquarterly.org/trade-maps/index.html) 
 * [The messy business of sand mining explained](https://graphics.reuters.com/GLOBAL-ENVIRONMENT/SAND/ygdpzekyavw/) 
+* [How Hidden Technology Transformed Bowling](https://www.youtube.com/watch?v=aFPJf-wKTd0) 
 
 # Reasoning
 
@@ -137,6 +154,12 @@ material. There is a total of 178 active links in the dataset.
 * [In 40 tweets I will describe 40 powerful concepts for understanding the world](https://twitter.com/g_s_bhogal/status/1225561131122597896) 
 * [Here are 50 ideas that shape my worldview](https://twitter.com/david_perell/status/1259597720752291841) 
 * [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes](https://arxiv.org/abs/0812.4360) 
+* [Why simplicity works](https://aeon.co/essays/why-is-simplicity-so-unreasonably-effective-at-scientific-explanation) 
+
+# Writing
+
+
+* [Why the title of your paper matters](https://www.nature.com/articles/s41562-021-01152-2) 
 
 # Culture
 
@@ -147,6 +170,7 @@ material. There is a total of 178 active links in the dataset.
 * [Revising the Canon: How Andy Warhol Became the Most Important American Modern Artist](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778740) 
 * [Louvre site des collections](https://collections.louvre.fr/en/) 
 * [Great Art Explained](https://www.youtube.com/channel/UCePDFpCr78_qmVtpoB1Axaw) 
+* [High-resolution image of Rembrandt’s Night Watch (5 micron sampling resolution, 717 gigapixels)](https://hyper-resolution.org/Nightwatch5) 
 
 ## Books
 
@@ -155,6 +179,7 @@ material. There is a total of 178 active links in the dataset.
 * [BOOKSTORES: How to Read More Books in the Golden Age of Content](https://www.youtube.com/watch?v=lIW5jBrrsS0) 
 * [The Art Of Sci-Fi Book Covers](https://www.youtube.com/watch?v=M7Qm_UJML54) 
 * [Why Do We Keep Reading The Great Gatsby?](https://www.theparisreview.org/blog/2021/01/11/why-do-we-keep-reading-the-great-gatsby/) 
+* [The 25 Most Iconic Book Covers in History](https://lithub.com/the-25-most-iconic-book-covers-in-history/) 
 
 ## Movies
 
@@ -171,6 +196,7 @@ material. There is a total of 178 active links in the dataset.
 * [Why James Bond gets constantly reinvented](https://www.youtube.com/watch?v=WUXGgZL6W7U) 
 * [Through Agnes Varda's Looking Glass](https://www.youtube.com/watch?v=NNE-YaIgdzw) 
 * [Stanley Kubrick, cinephile](https://www2.bfi.org.uk/news-opinion/sight-sound-magazine/polls-surveys/stanley-kubrick-cinephile) 
+* [Hollywood Age Gap: The age difference in years between movie love interests](https://hollywoodagegap.com/) 
 
 ## TV
 
@@ -190,6 +216,7 @@ material. There is a total of 178 active links in the dataset.
 * [Beatport’s Definitive History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/) 
 * [The 500 Greatest Songs of All Time](https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/kanye-west-stronger-1224837/) 
 * [A Beginner’s Guide to Miles Davis](https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/) 
+* [Which Singers Have the Biggest Vocabularies?](https://word.tips/singers-vocabularies/) 
 
 ## Games
 
@@ -211,11 +238,14 @@ material. There is a total of 178 active links in the dataset.
 * [Why medieval city-builder video games are historically inaccurate](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate) 
 * [The Rocks and Minerals of Minecraft](https://www.mindat.org/a/minecraft) 
 * [HATETRIS](https://qntm.org/hatetris) 
+* [A digital museum of video game levels](https://noclip.website/) 
+* [The Complete, Untold History of Halo](https://www.vice.com/en/article/xwqjg3/the-complete-untold-history-of-halo-an-oral-history) 
 
 ### Chess
 
 
 * [A Beginner's Garden of Chess Openings](https://dwheeler.com/chess-openings/) 
+* [How Long Does It Take Ordinary People To Get Good At Chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md) 
 
 # Knowledge
 
@@ -223,18 +253,21 @@ material. There is a total of 178 active links in the dataset.
 * [User:Emijrp/All Human Knowledge](https://www.wikidata.org/wiki/User:Emijrp/All_Human_Knowledge) 
 * [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions) 
 * [Getting Access to Paywalled Articles](https://jaranta.github.io/getting-access-to-paywalled-articles/) 
+* [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists) 
 
 # Language
 
 
 * [Eunoia: Words That Don't Translate](https://eunoia.world/) 
 * [Surprising shared word etymologies](https://www.danielde.dev/blog/surprising-shared-word-etymologies/) 
+* [Unusual Danish words](https://finnaarupnielsen.wordpress.com/2022/01/07/unusual-danish-words/) 
 
 ## English
 
 
 * [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html) 
 * [The Problem With ‘Hey Guys’](https://www.theatlantic.com/family/archive/2018/08/guys-gender-neutral/568231/) 
+* [40 literary terms you should know](http://centeredlibrarian.blogspot.com/2011/05/40-literary-terms-you-should-know.html) 
 
 # Travel
 
@@ -263,6 +296,16 @@ material. There is a total of 178 active links in the dataset.
 
 
 * [Drink Me: The Kremlin’s Long, Evil History of Poisoning Its Enemies](https://newlinesmag.com/essays/drink-me-the-kremlins-long-evil-history-of-poisoning-its-enemies/) 
+
+## United States
+
+
+* [Field notes: Miami](https://devonzuegel.com/post/field-notes-miami) 
+
+# Fashion
+
+
+* [Why did men stop wearing high heels?](https://www.bbc.co.uk/news/magazine-21151350) 
 
 # Health
 
@@ -297,16 +340,23 @@ material. There is a total of 178 active links in the dataset.
 
 
 * [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces) 
-* [Bastion forts around the world](https://twitter.com/xruiztru/status/1264480689413636096) 
 * [50 tips to improve user interface](https://fifty.user-interface.io/50_ui_tips.pdf) 
 * [What I learnt roasting 200 landing pages in 12 months](https://blog.roastmylandingpage.com/landing-page-roasts/) 
 * [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/) 
-* [The 25 Most Significant Works of Postwar Architecture](https://www.nytimes.com/2021/08/02/t-magazine/significant-postwar-architecture.html) 
 * [Star Trek + Design](https://star-trek.design/) 
 * [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics) 
 * [Read color hex codes](https://metafizzy.co/blog/read-color-hex-codes/) 
 * [How I Experience Web Today](https://how-i-experience-web-today.com/) 
 * [Why are hyperlinks blue?](https://blog.mozilla.org/internet-culture/deep-dives/why-are-hyperlinks-blue/) 
+* [Emoji to Scale](https://javier.xyz/emoji-to-scale/) 
+* [Spatial Interfaces](https://darkblueheaven.com/spatialinterfaces/) 
+
+# Architecture
+
+
+* [Bastion forts around the world](https://twitter.com/xruiztru/status/1264480689413636096) 
+* [The 25 Most Significant Works of Postwar Architecture](https://www.nytimes.com/2021/08/02/t-magazine/significant-postwar-architecture.html) 
+* [Why skyscrapers are so short](https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/) 
 
 # Essays
 
@@ -320,3 +370,5 @@ material. There is a total of 178 active links in the dataset.
 * [Twenty Years Gone: What Bobby McIlvaine Left Behind](https://www.theatlantic.com/magazine/archive/2021/09/twenty-years-gone-911-bobby-mcilvaine/619490/) 
 * [Tom’s Essay](https://web.archive.org/web/20181110011535/https://opinionator.blogs.nytimes.com/2008/09/23/toms-essay/) 
 * [One Day—and One Night—in the Kitchen at Les Halles](https://www.newyorker.com/magazine/2021/09/06/magazine20000417hells-kitchen) 
+* [An Ex-Drinker’s Search for a Sober Buzz](https://www.newyorker.com/magazine/2021/09/27/an-ex-drinkers-search-for-a-sober-buzz) 
+* [The Devil at 37,000 Feet](https://archive.vanityfair.com/article/2009/1/the-devil-at-37000-feet) 

@@ -49,6 +49,13 @@ df |>
 
 # Science
 
+```{r linksScience, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "science") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 ## Biology
 
 ```{r linksBiology, echo=FALSE, message=FALSE, warning=FALSE}
@@ -90,6 +97,15 @@ df |>
 ```{r linksClimate, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "climate") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Nature
+
+```{r linksNature, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "nature") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
@@ -148,6 +164,14 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+# Writing
+
+```{r linksWriting, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "writing") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
 
 # Culture
 
@@ -288,6 +312,23 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+## United States
+
+```{r linksUS, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "US") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Fashion
+
+```{r linksFashion, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "fashion") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
 
 # Health
 
@@ -330,6 +371,15 @@ df |>
 ```{r linksDesign, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "design") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Architecture
+
+```{r linksArchitecture, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "architecture") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
