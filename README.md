@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 210 active links in the dataset.
+material. There is a total of 229 active links in the dataset.
 
 # Life
 
@@ -19,6 +19,8 @@ material. There is a total of 210 active links in the dataset.
 * [A Time-Series Analysis of my Girlfriends Mood Swings](https://jabde.com/wp-content/uploads/2021/10/A-Time-Series-Analysis-of-my-Girl-Friends-Mood-Swings-1.pdf) 
 * [Ultimate Meaning: We Don’t Have It, We Can’t Get It, and We Should Be Very, Very Sad](https://journalofcontroversialideas.org/article/1/1/132) 
 * [Ten Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life) 
+* [Merlin's Wisdom Project](https://gist.github.com/merlinmann/09af1df28d76ba028b0999f66945fd61) 
+* [Things you're doing but don't want to be doing](https://dynomight.net/paths/) 
 
 # Work
 
@@ -36,6 +38,10 @@ material. There is a total of 210 active links in the dataset.
 * [An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed) 
 * [you should ask for more money when you get a job offer. here’s how.](https://www.askamanager.org/2021/08/ask-for-more-money-with-that-job-offer-heres-how.html) 
 * [Mise-en-Place for Knowledge Workers: 6 Practices for Working Clean](https://fortelabs.co/blog/mise-en-place-for-knowledge-workers/) 
+* [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/) 
+* [Lessons from my PhD](https://austinhenley.com/blog/lessonsfrommyphd.html) 
+* [Tips for work-life balance](https://matt.might.net/articles/work-life-balance/) 
+* [Productivity tips, tricks and hacks for academics (2015 edition)](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/) 
 
 # Food
 
@@ -87,6 +93,7 @@ material. There is a total of 210 active links in the dataset.
 * [A Fable of the OC](https://www.econlib.org/library/Columns/y2006/Mungeropportunitycost.html) 
 * [Potterian Economics](https://mpra.ub.uni-muenchen.de/76344/1/MPRA_paper_76344.pdf) 
 * [A critical behavioural economics and behavioural science reading list](https://www.jasoncollins.blog/a-critical-behavioural-economics-and-behavioural-science-reading-list/) 
+* [The Economy](https://www.core-econ.org/the-economy/) 
 
 # Climate
 
@@ -114,6 +121,8 @@ material. There is a total of 210 active links in the dataset.
 * [Memos](https://sriramk.com/memos) 
 * [The Observer Effect – Daniel Ek](https://www.theobservereffect.org/daniel.html) 
 * [The PayPal Mafia](https://web.archive.org/web/20180708044946/https://fortune.com/2007/11/13/paypal-mafia/) 
+* [List of startups/companies that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot) 
+* [The Mythology of Red Bull](https://www.readthegeneralist.com/briefing/red-bull) 
 
 # Programming
 
@@ -197,6 +206,8 @@ material. There is a total of 210 active links in the dataset.
 * [Through Agnes Varda's Looking Glass](https://www.youtube.com/watch?v=NNE-YaIgdzw) 
 * [Stanley Kubrick, cinephile](https://www2.bfi.org.uk/news-opinion/sight-sound-magazine/polls-surveys/stanley-kubrick-cinephile) 
 * [Hollywood Age Gap: The age difference in years between movie love interests](https://hollywoodagegap.com/) 
+* [Estimating the number of awkward toilet encounters created by Professor Hulk's heroic snap [Avengers: Endgame]](https://www.reddit.com/r/marvelstudios/comments/sxbtfz/estimating_the_number_of_awkward_toilet/) 
+* [Almost Everything in “Dr. Strangelove” Was True](https://www.newyorker.com/news/news-desk/almost-everything-in-dr-strangelove-was-true) 
 
 ## TV
 
@@ -240,6 +251,7 @@ material. There is a total of 210 active links in the dataset.
 * [HATETRIS](https://qntm.org/hatetris) 
 * [A digital museum of video game levels](https://noclip.website/) 
 * [The Complete, Untold History of Halo](https://www.vice.com/en/article/xwqjg3/the-complete-untold-history-of-halo-an-oral-history) 
+* [When SimCity got serious: the story of Maxis Business Simulations and SimRefinery](https://obscuritory.com/sim/when-simcity-got-serious/) 
 
 ### Chess
 
@@ -273,6 +285,7 @@ material. There is a total of 210 active links in the dataset.
 
 
 * [This Is Why Your Holiday Travel Is Awful](https://www.politico.com/amp/news/magazine/2019/11/29/penn-station-robert-caro-073564) 
+* [Travel hacks](https://matt.might.net/articles/travel-hacks/) 
 
 # Countries
 
@@ -286,6 +299,8 @@ material. There is a total of 210 active links in the dataset.
 
 * [I made a map of Central London museums... there are a lot](https://www.reddit.com/r/london/comments/h8tc2q/i_made_a_map_of_central_london_museums_there_are/) 
 * [Can you see the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/) 
+* [Passport to the Pub: The Tourist’s Guide to Pub Etiquette](http://www.sirc.org/publik/passport.pdf) 
+* [Tube trivia and facts](https://madeby.tfl.gov.uk/2019/07/29/tube-trivia-and-facts/) 
 
 ## Germany
 
@@ -301,6 +316,7 @@ material. There is a total of 210 active links in the dataset.
 
 
 * [Field notes: Miami](https://devonzuegel.com/post/field-notes-miami) 
+* [Every mass shooting in the US – a visual database](https://www.theguardian.com/us-news/ng-interactive/2021/may/27/us-mass-shootings-database) 
 
 # Fashion
 
@@ -317,6 +333,8 @@ material. There is a total of 210 active links in the dataset.
 * [96 hour No-Sleep Challenge](https://mattlakeman.org/2020/05/11/96-hour-no-sleep-challenge/) 
 * [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life) 
 * [The invisible addiction: is it time to give up caffeine?](https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up) 
+* [Why should I use dental floss?](https://www.nhs.uk/common-health-questions/dental-health/why-should-i-use-dental-floss/) 
+* [Least resistance weight loss](https://matt.might.net/articles/least-resistance-weight-loss/) 
 
 # Sport
 
@@ -350,6 +368,7 @@ material. There is a total of 210 active links in the dataset.
 * [Why are hyperlinks blue?](https://blog.mozilla.org/internet-culture/deep-dives/why-are-hyperlinks-blue/) 
 * [Emoji to Scale](https://javier.xyz/emoji-to-scale/) 
 * [Spatial Interfaces](https://darkblueheaven.com/spatialinterfaces/) 
+* [Design Tip: Never Use Black](https://ianstormtaylor.com/design-tip-never-use-black/) 
 
 # Architecture
 
