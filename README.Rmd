@@ -294,6 +294,15 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+## Netherlands
+
+```{r linksNetherlands, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "Netherlands") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 ## Germany
 
 ```{r linksGermany, echo=FALSE, message=FALSE, warning=FALSE}
@@ -362,6 +371,15 @@ df |>
 ```{r linksPolitics, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "politics") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# History
+
+```{r linksHistory, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "history") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```

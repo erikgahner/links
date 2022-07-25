@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 229 active links in the dataset.
+material. There is a total of 251 active links in the dataset.
 
 # Life
 
@@ -21,6 +21,7 @@ material. There is a total of 229 active links in the dataset.
 * [Ten Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life) 
 * [Merlin's Wisdom Project](https://gist.github.com/merlinmann/09af1df28d76ba028b0999f66945fd61) 
 * [Things you're doing but don't want to be doing](https://dynomight.net/paths/) 
+* [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) 
 
 # Work
 
@@ -42,6 +43,7 @@ material. There is a total of 229 active links in the dataset.
 * [Lessons from my PhD](https://austinhenley.com/blog/lessonsfrommyphd.html) 
 * [Tips for work-life balance](https://matt.might.net/articles/work-life-balance/) 
 * [Productivity tips, tricks and hacks for academics (2015 edition)](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/) 
+* [Career Advice Nobody Gave Me: Never Ignore a Recruiter](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556) 
 
 # Food
 
@@ -53,6 +55,7 @@ material. There is a total of 229 active links in the dataset.
 * [On the impracticality of a cheeseburger](https://waldo.jaquith.org/blog/2011/12/impractical-cheeseburger/) 
 * [In Praise of Small Menus](https://www.grubstreet.com/2021/06/in-praise-of-small-menus.html) 
 * [The food timeline: food history research service](https://foodtimeline.org/) 
+* [The Fat Gold Guide to Extra Virgin Olive Oil](https://fat.gold/guide/) 
 
 # Science
 
@@ -81,6 +84,7 @@ material. There is a total of 229 active links in the dataset.
 * [How a Publicity Blitz Created The Myth of Subliminal Advertising](http://www.repiev.ru/doc/subliminal.pdf) 
 * [PSY 1 | Introduction to Psychological Science | Lectures](https://stevenpinker.com/psy-1-introduction-psychological-science-lectures) 
 * [Reversals in psychology](https://www.gleech.org/psych) 
+* [False Psychology Glossary](https://replicationindex.com/2022/02/13/false-psychology-glossary/) 
 
 # Economics
 
@@ -94,6 +98,7 @@ material. There is a total of 229 active links in the dataset.
 * [Potterian Economics](https://mpra.ub.uni-muenchen.de/76344/1/MPRA_paper_76344.pdf) 
 * [A critical behavioural economics and behavioural science reading list](https://www.jasoncollins.blog/a-critical-behavioural-economics-and-behavioural-science-reading-list/) 
 * [The Economy](https://www.core-econ.org/the-economy/) 
+* [Game theory in popular culture](https://www.gametheory.net/popular/) 
 
 # Climate
 
@@ -130,11 +135,13 @@ material. There is a total of 229 active links in the dataset.
 * [Programmer Competency Matrix](https://sijinjoseph.com/programmer-competency-matrix/) 
 * [Programming and Writing](http://antirez.com/news/135) 
 * [The History of Command Palettes: How Typing Commands Became The Norm Again](https://capiche.com/e/consumer-dev-tools-command-palette) 
+* [lon lat lon lat](https://macwright.com/lonlat/) 
 
 # Privacy
 
 
 * [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) 
+* [Be anonymous](https://kg.dev/thoughts/be-anonymous) 
 
 # Ethics
 
@@ -155,6 +162,9 @@ material. There is a total of 229 active links in the dataset.
 * [First You Make the Maps](https://www.laphamsquarterly.org/trade-maps/index.html) 
 * [The messy business of sand mining explained](https://graphics.reuters.com/GLOBAL-ENVIRONMENT/SAND/ygdpzekyavw/) 
 * [How Hidden Technology Transformed Bowling](https://www.youtube.com/watch?v=aFPJf-wKTd0) 
+* [GPS](https://ciechanow.ski/gps/) 
+* [Food Packaging](https://www.scanofthemonth.com/scans/food-packaging) 
+* [The Humble Brilliance of Italy’s Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot) 
 
 # Reasoning
 
@@ -169,6 +179,7 @@ material. There is a total of 229 active links in the dataset.
 
 
 * [Why the title of your paper matters](https://www.nature.com/articles/s41562-021-01152-2) 
+* [Writing matters](https://janfeld.weebly.com/uploads/1/1/8/9/118933153/writing_matters.pdf) 
 
 # Culture
 
@@ -180,6 +191,7 @@ material. There is a total of 229 active links in the dataset.
 * [Louvre site des collections](https://collections.louvre.fr/en/) 
 * [Great Art Explained](https://www.youtube.com/channel/UCePDFpCr78_qmVtpoB1Axaw) 
 * [High-resolution image of Rembrandt’s Night Watch (5 micron sampling resolution, 717 gigapixels)](https://hyper-resolution.org/Nightwatch5) 
+* [The Where's Waldo Legacy](https://www.youtube.com/watch?v=_Kpfe1k6CuM) 
 
 ## Books
 
@@ -217,6 +229,7 @@ material. There is a total of 229 active links in the dataset.
 * [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/) 
 * [Into the Fairy Castle: The Persistence of Victorian Liberalism](https://americanaffairsjournal.org/2021/08/into-the-fairy-castle-the-persistence-of-victorian-liberalism/) 
 * [The Fall of The Simpsons: How it Happened](https://www.youtube.com/watch?v=KqFNbCcyFkk) 
+* [Peep Show – The Most Realistic Portrayal of Evil Ever Made](https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/) 
 
 ## Music
 
@@ -252,12 +265,15 @@ material. There is a total of 229 active links in the dataset.
 * [A digital museum of video game levels](https://noclip.website/) 
 * [The Complete, Untold History of Halo](https://www.vice.com/en/article/xwqjg3/the-complete-untold-history-of-halo-an-oral-history) 
 * [When SimCity got serious: the story of Maxis Business Simulations and SimRefinery](https://obscuritory.com/sim/when-simcity-got-serious/) 
+* [Wikitrivia](https://wikitrivia.tomjwatson.com/) 
 
 ### Chess
 
 
 * [A Beginner's Garden of Chess Openings](https://dwheeler.com/chess-openings/) 
 * [How Long Does It Take Ordinary People To Get Good At Chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md) 
+* [Introduction to Pawn Endgames | Principles of Chess Endgames | GM Naroditsky](https://www.youtube.com/watch?v=QUqq7wSLE78) 
+* [Chesses](https://pippinbarr.com/chesses/) 
 
 # Knowledge
 
@@ -301,6 +317,12 @@ material. There is a total of 229 active links in the dataset.
 * [Can you see the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/) 
 * [Passport to the Pub: The Tourist’s Guide to Pub Etiquette](http://www.sirc.org/publik/passport.pdf) 
 * [Tube trivia and facts](https://madeby.tfl.gov.uk/2019/07/29/tube-trivia-and-facts/) 
+* [Canterbury – Best Things to See – City Walk & History Canterbury, England](https://www.youtube.com/watch?v=y22jCbxEBVM) 
+
+## Netherlands
+
+
+* [The ultimate guide to visiting Amsterdam](https://www.notion.so/The-ultimate-guide-to-visiting-Amsterdam-2002074140be4a12b9e79f75708be171) 
 
 ## Germany
 
@@ -354,6 +376,11 @@ material. There is a total of 229 active links in the dataset.
 
 * [List of frivolous political parties](https://en.wikipedia.org/wiki/List_of_frivolous_political_parties) 
 
+# History
+
+
+* [Civilisation (1969) | Kenneth Clark](https://www.youtube.com/playlist?list=PLw1dGa3bvXdV1hpzs_B5Ai7iB0cFs6a3w) 
+
 # Design
 
 
@@ -369,6 +396,7 @@ material. There is a total of 229 active links in the dataset.
 * [Emoji to Scale](https://javier.xyz/emoji-to-scale/) 
 * [Spatial Interfaces](https://darkblueheaven.com/spatialinterfaces/) 
 * [Design Tip: Never Use Black](https://ianstormtaylor.com/design-tip-never-use-black/) 
+* [Why does the 📈 Chart Increasing emoji show in red?](https://blog.emojipedia.org/why-does-the-chart-increasing-emoji-show-in-red/) 
 
 # Architecture
 
@@ -376,6 +404,7 @@ material. There is a total of 229 active links in the dataset.
 * [Bastion forts around the world](https://twitter.com/xruiztru/status/1264480689413636096) 
 * [The 25 Most Significant Works of Postwar Architecture](https://www.nytimes.com/2021/08/02/t-magazine/significant-postwar-architecture.html) 
 * [Why skyscrapers are so short](https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/) 
+* [A modern home](https://johnnyrodgers.is/building-a-modern-home) 
 
 # Essays
 
