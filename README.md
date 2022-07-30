@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 251 active links in the dataset.
+material. There is a total of 278 active links in the dataset.
 
 # Life
 
@@ -22,6 +22,8 @@ material. There is a total of 251 active links in the dataset.
 * [Merlin's Wisdom Project](https://gist.github.com/merlinmann/09af1df28d76ba028b0999f66945fd61) 
 * [Things you're doing but don't want to be doing](https://dynomight.net/paths/) 
 * [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) 
+* [Do Yourself a Favor and Go Find a ‘Third Place’](https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/) 
+* [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database) 
 
 # Work
 
@@ -56,6 +58,7 @@ material. There is a total of 251 active links in the dataset.
 * [In Praise of Small Menus](https://www.grubstreet.com/2021/06/in-praise-of-small-menus.html) 
 * [The food timeline: food history research service](https://foodtimeline.org/) 
 * [The Fat Gold Guide to Extra Virgin Olive Oil](https://fat.gold/guide/) 
+* [Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment](https://doi.org/10.1016/j.matt.2019.12.019) 
 
 # Science
 
@@ -66,6 +69,8 @@ material. There is a total of 251 active links in the dataset.
 
 
 * [Is everything we eat associated with cancer? A systematic cookbook review](https://doi.org/10.3945/ajcn.112.047142) 
+* [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) 
+* [List of unusual biological names](https://en.wikipedia.org/wiki/List_of_unusual_biological_names) 
 
 ## Physics
 
@@ -85,6 +90,23 @@ material. There is a total of 251 active links in the dataset.
 * [PSY 1 | Introduction to Psychological Science | Lectures](https://stevenpinker.com/psy-1-introduction-psychological-science-lectures) 
 * [Reversals in psychology](https://www.gleech.org/psych) 
 * [False Psychology Glossary](https://replicationindex.com/2022/02/13/false-psychology-glossary/) 
+
+# Mathematics
+
+
+* [How to Study Mathematics](https://www.math.uh.edu/~dblecher/pf2.html) 
+* [The most counterintuitive facts in all of mathematics, computer science, and physics](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in) 
+* [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces/) 
+* [Why Mathematics Works So Well](https://arxiv.org/abs/1506.08426) 
+* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) 
+* [A Layman’s Guide to Recreational Mathematics Videos](https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/) 
+* [Calculus Made Easy](https://calculusmadeeasy.org/) 
+* [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain) 
+* [The Art of Linear Algebra – Graphic Notes on “Linear Algebra for Everyone”](https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf) 
+* [How to Slice a Bagel into Two Linked Halves](http://www.georgehart.com/bagel/bagel.html) 
+* [So You Want to Study Mathematics…](https://www.susanrigetti.com/math) 
+* [Matrix Multiplication](http://matrixmultiplication.xyz/) 
+* [The Mathematics of 2048: Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html) 
 
 # Economics
 
@@ -128,6 +150,8 @@ material. There is a total of 251 active links in the dataset.
 * [The PayPal Mafia](https://web.archive.org/web/20180708044946/https://fortune.com/2007/11/13/paypal-mafia/) 
 * [List of startups/companies that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot) 
 * [The Mythology of Red Bull](https://www.readthegeneralist.com/briefing/red-bull) 
+* [Starting a Startup](https://www.julian.com/guide/startup/intro) 
+* [Think about Equity](https://foundersatwork.posthaven.com/think-about-equity) 
 
 # Programming
 
@@ -180,6 +204,9 @@ material. There is a total of 251 active links in the dataset.
 
 * [Why the title of your paper matters](https://www.nature.com/articles/s41562-021-01152-2) 
 * [Writing matters](https://janfeld.weebly.com/uploads/1/1/8/9/118933153/writing_matters.pdf) 
+* [Write Well](https://www.julian.com/guide/write/intro) 
+* [How I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/) 
+* [15 rules for blogging, and my current streak](https://interconnected.org/home/2020/09/10/streak) 
 
 # Culture
 
@@ -220,6 +247,7 @@ material. There is a total of 251 active links in the dataset.
 * [Hollywood Age Gap: The age difference in years between movie love interests](https://hollywoodagegap.com/) 
 * [Estimating the number of awkward toilet encounters created by Professor Hulk's heroic snap [Avengers: Endgame]](https://www.reddit.com/r/marvelstudios/comments/sxbtfz/estimating_the_number_of_awkward_toilet/) 
 * [Almost Everything in “Dr. Strangelove” Was True](https://www.newyorker.com/news/news-desk/almost-everything-in-dr-strangelove-was-true) 
+* [Digital vs. Practical Shots in MAD MAX: FURY ROAD | TIFF 2022](https://www.youtube.com/watch?v=exK_fVmY8Jk) 
 
 ## TV
 
@@ -274,6 +302,9 @@ material. There is a total of 251 active links in the dataset.
 * [How Long Does It Take Ordinary People To Get Good At Chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md) 
 * [Introduction to Pawn Endgames | Principles of Chess Endgames | GM Naroditsky](https://www.youtube.com/watch?v=QUqq7wSLE78) 
 * [Chesses](https://pippinbarr.com/chesses/) 
+* [Statistical Analysis of the Elo Rating System in Chess](https://doi.org/10.1080/09332480.2020.1820249) 
+* [How I learned to suck less at Chess](https://www.bargava.com/blog/suck-less-at-chess/) 
+* [From 1400 to 2000 in Blitz on Chess.com - A 10½ Year Journey](https://saychess.substack.com/p/from-1400-to-2000-in-blitz-on-chesscom) 
 
 # Knowledge
 
@@ -289,6 +320,8 @@ material. There is a total of 251 active links in the dataset.
 * [Eunoia: Words That Don't Translate](https://eunoia.world/) 
 * [Surprising shared word etymologies](https://www.danielde.dev/blog/surprising-shared-word-etymologies/) 
 * [Unusual Danish words](https://finnaarupnielsen.wordpress.com/2022/01/07/unusual-danish-words/) 
+* [How I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html) 
+* [Urban Dictionary List](https://github.com/mattbierner/urban-dictionary-word-list) 
 
 ## English
 
@@ -296,6 +329,9 @@ material. There is a total of 251 active links in the dataset.
 * [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html) 
 * [The Problem With ‘Hey Guys’](https://www.theatlantic.com/family/archive/2018/08/guys-gender-neutral/568231/) 
 * [40 literary terms you should know](http://centeredlibrarian.blogspot.com/2011/05/40-literary-terms-you-should-know.html) 
+* [Duolingo: Tips and Notes from English](https://duome.eu/tips/en) 
+* [Common Errors in English Usage](https://brians.wsu.edu/common-errors/) 
+* [English Style Guide: A handbook for authors and translators in the European Commission](https://ec.europa.eu/info/sites/default/files/styleguide_english_dgt_en.pdf) 
 
 # Travel
 
@@ -334,6 +370,11 @@ material. There is a total of 251 active links in the dataset.
 
 * [Drink Me: The Kremlin’s Long, Evil History of Poisoning Its Enemies](https://newlinesmag.com/essays/drink-me-the-kremlins-long-evil-history-of-poisoning-its-enemies/) 
 
+## Egypt
+
+
+* [Suez Crisis 1956 (All Parts)](https://www.youtube.com/watch?v=lLvqZ1ufLwk) 
+
 ## United States
 
 
@@ -357,6 +398,7 @@ material. There is a total of 251 active links in the dataset.
 * [The invisible addiction: is it time to give up caffeine?](https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up) 
 * [Why should I use dental floss?](https://www.nhs.uk/common-health-questions/dental-health/why-should-i-use-dental-floss/) 
 * [Least resistance weight loss](https://matt.might.net/articles/least-resistance-weight-loss/) 
+* [Build Muscle](https://www.julian.com/guide/muscle/intro) 
 
 # Sport
 
@@ -397,6 +439,7 @@ material. There is a total of 251 active links in the dataset.
 * [Spatial Interfaces](https://darkblueheaven.com/spatialinterfaces/) 
 * [Design Tip: Never Use Black](https://ianstormtaylor.com/design-tip-never-use-black/) 
 * [Why does the 📈 Chart Increasing emoji show in red?](https://blog.emojipedia.org/why-does-the-chart-increasing-emoji-show-in-red/) 
+* [The Psychology of Design](https://growth.design/psychology) 
 
 # Architecture
 

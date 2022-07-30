@@ -83,6 +83,16 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+# Mathematics
+
+```{r linksMathematics, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "mathematics") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+
 # Economics
 
 ```{r linksEconomics, echo=FALSE, message=FALSE, warning=FALSE}
@@ -317,6 +327,15 @@ df |>
 ```{r linksRussia, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "Russia") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Egypt
+
+```{r linksEgypt, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "Egypt") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
