@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 278 active links in the dataset.
+material. There is a total of 297 active links in the dataset.
 
 # Life
 
@@ -24,6 +24,7 @@ material. There is a total of 278 active links in the dataset.
 * [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) 
 * [Do Yourself a Favor and Go Find a ‘Third Place’](https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/) 
 * [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database) 
+* [The Best](https://dcurt.is/the-best) 
 
 # Work
 
@@ -46,6 +47,8 @@ material. There is a total of 278 active links in the dataset.
 * [Tips for work-life balance](https://matt.might.net/articles/work-life-balance/) 
 * [Productivity tips, tricks and hacks for academics (2015 edition)](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/) 
 * [Career Advice Nobody Gave Me: Never Ignore a Recruiter](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556) 
+* [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/) 
+* [Donald Knuth on work habits, problem solving, and happiness](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/) 
 
 # Food
 
@@ -59,6 +62,8 @@ material. There is a total of 278 active links in the dataset.
 * [The food timeline: food history research service](https://foodtimeline.org/) 
 * [The Fat Gold Guide to Extra Virgin Olive Oil](https://fat.gold/guide/) 
 * [Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment](https://doi.org/10.1016/j.matt.2019.12.019) 
+* [What Dinner Will Look Like in the Next 100 Years, According to Scientists (and Sci-Fi Authors)](https://www.bonappetit.com/story/plates-of-the-future) 
+* [The Complicated Evolutionary History of Spicy Chili Peppers](https://sitn.hms.harvard.edu/flash/2012/issue131b/) 
 
 # Science
 
@@ -90,6 +95,7 @@ material. There is a total of 278 active links in the dataset.
 * [PSY 1 | Introduction to Psychological Science | Lectures](https://stevenpinker.com/psy-1-introduction-psychological-science-lectures) 
 * [Reversals in psychology](https://www.gleech.org/psych) 
 * [False Psychology Glossary](https://replicationindex.com/2022/02/13/false-psychology-glossary/) 
+* [A map of cognitive biases in decision making](https://bias.visual-literacy.org/) 
 
 # Mathematics
 
@@ -107,6 +113,7 @@ material. There is a total of 278 active links in the dataset.
 * [So You Want to Study Mathematics…](https://www.susanrigetti.com/math) 
 * [Matrix Multiplication](http://matrixmultiplication.xyz/) 
 * [The Mathematics of 2048: Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html) 
+* [Understanding Mathematics](https://www.math.utah.edu/~alfeld/math.html) 
 
 # Economics
 
@@ -121,6 +128,7 @@ material. There is a total of 278 active links in the dataset.
 * [A critical behavioural economics and behavioural science reading list](https://www.jasoncollins.blog/a-critical-behavioural-economics-and-behavioural-science-reading-list/) 
 * [The Economy](https://www.core-econ.org/the-economy/) 
 * [Game theory in popular culture](https://www.gametheory.net/popular/) 
+* [List of unsolved problems in economics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics) 
 
 # Climate
 
@@ -166,6 +174,7 @@ material. There is a total of 278 active links in the dataset.
 
 * [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) 
 * [Be anonymous](https://kg.dev/thoughts/be-anonymous) 
+* [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet-ng.org/) 
 
 # Ethics
 
@@ -189,6 +198,7 @@ material. There is a total of 278 active links in the dataset.
 * [GPS](https://ciechanow.ski/gps/) 
 * [Food Packaging](https://www.scanofthemonth.com/scans/food-packaging) 
 * [The Humble Brilliance of Italy’s Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot) 
+* [Mechanical Watch](https://ciechanow.ski/mechanical-watch/) 
 
 # Reasoning
 
@@ -198,6 +208,7 @@ material. There is a total of 278 active links in the dataset.
 * [Here are 50 ideas that shape my worldview](https://twitter.com/david_perell/status/1259597720752291841) 
 * [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes](https://arxiv.org/abs/0812.4360) 
 * [Why simplicity works](https://aeon.co/essays/why-is-simplicity-so-unreasonably-effective-at-scientific-explanation) 
+* [Thinking in Bets: How to Make Decisions Like a Poker Player](https://fronterablog.com/thinking-in-bets/) 
 
 # Writing
 
@@ -207,6 +218,7 @@ material. There is a total of 278 active links in the dataset.
 * [Write Well](https://www.julian.com/guide/write/intro) 
 * [How I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/) 
 * [15 rules for blogging, and my current streak](https://interconnected.org/home/2020/09/10/streak) 
+* [A history of punctuation](https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation) 
 
 # Culture
 
@@ -228,6 +240,7 @@ material. There is a total of 278 active links in the dataset.
 * [The Art Of Sci-Fi Book Covers](https://www.youtube.com/watch?v=M7Qm_UJML54) 
 * [Why Do We Keep Reading The Great Gatsby?](https://www.theparisreview.org/blog/2021/01/11/why-do-we-keep-reading-the-great-gatsby/) 
 * [The 25 Most Iconic Book Covers in History](https://lithub.com/the-25-most-iconic-book-covers-in-history/) 
+* [The 666 greatest novels of all time](http://www.editoreric.com/greatlit/greatest-novels.html) 
 
 ## Movies
 
@@ -294,6 +307,7 @@ material. There is a total of 278 active links in the dataset.
 * [The Complete, Untold History of Halo](https://www.vice.com/en/article/xwqjg3/the-complete-untold-history-of-halo-an-oral-history) 
 * [When SimCity got serious: the story of Maxis Business Simulations and SimRefinery](https://obscuritory.com/sim/when-simcity-got-serious/) 
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) 
+* [An Apology for Roger Ebert](https://www.youtube.com/watch?v=cvZhRin-plA) 
 
 ### Chess
 
@@ -322,6 +336,7 @@ material. There is a total of 278 active links in the dataset.
 * [Unusual Danish words](https://finnaarupnielsen.wordpress.com/2022/01/07/unusual-danish-words/) 
 * [How I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html) 
 * [Urban Dictionary List](https://github.com/mattbierner/urban-dictionary-word-list) 
+* [FBI Guide to Internet Slang](https://archive.org/details/FBIGuideToInternetSlang/) 
 
 ## English
 
@@ -332,12 +347,15 @@ material. There is a total of 278 active links in the dataset.
 * [Duolingo: Tips and Notes from English](https://duome.eu/tips/en) 
 * [Common Errors in English Usage](https://brians.wsu.edu/common-errors/) 
 * [English Style Guide: A handbook for authors and translators in the European Commission](https://ec.europa.eu/info/sites/default/files/styleguide_english_dgt_en.pdf) 
+* [50 Tongue Twisters to improve pronunciation in English](https://www.engvid.com/english-resource/50-tongue-twisters-improve-pronunciation/) 
 
 # Travel
 
 
 * [This Is Why Your Holiday Travel Is Awful](https://www.politico.com/amp/news/magazine/2019/11/29/penn-station-robert-caro-073564) 
 * [Travel hacks](https://matt.might.net/articles/travel-hacks/) 
+* [Some apps recommendations that will improve your solo travels](https://www.reddit.com/r/solotravel/comments/ui9qss/some_apps_recommendations_that_will_improve_your/) 
+* [Awesome Digital Nomads](https://github.com/cbovis/awesome-digital-nomads) 
 
 # Countries
 
@@ -399,6 +417,7 @@ material. There is a total of 278 active links in the dataset.
 * [Why should I use dental floss?](https://www.nhs.uk/common-health-questions/dental-health/why-should-i-use-dental-floss/) 
 * [Least resistance weight loss](https://matt.might.net/articles/least-resistance-weight-loss/) 
 * [Build Muscle](https://www.julian.com/guide/muscle/intro) 
+* [The Fitness Wiki](https://thefitness.wiki/) 
 
 # Sport
 
