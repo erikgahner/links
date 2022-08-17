@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 297 active links in the dataset.
+material. There is a total of 306 active links in the dataset.
 
 # Life
 
@@ -64,6 +64,8 @@ material. There is a total of 297 active links in the dataset.
 * [Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment](https://doi.org/10.1016/j.matt.2019.12.019) 
 * [What Dinner Will Look Like in the Next 100 Years, According to Scientists (and Sci-Fi Authors)](https://www.bonappetit.com/story/plates-of-the-future) 
 * [The Complicated Evolutionary History of Spicy Chili Peppers](https://sitn.hms.harvard.edu/flash/2012/issue131b/) 
+* [The Serious Eats Guide to Shopping for Asian Noodles](https://www.seriouseats.com/asian-noodle-shopping-guide) 
+* [The Kitchen Starter Kit: Essential Tools for Every Cook](https://www.seriouseats.com/basic-starter-kitchen-equipment) 
 
 # Science
 
@@ -114,6 +116,7 @@ material. There is a total of 297 active links in the dataset.
 * [Matrix Multiplication](http://matrixmultiplication.xyz/) 
 * [The Mathematics of 2048: Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html) 
 * [Understanding Mathematics](https://www.math.utah.edu/~alfeld/math.html) 
+* [The Philosophy of Linear Algebra](https://sigfyg.medium.com/the-philosophy-of-linear-algebra-ac2d9ce14619) 
 
 # Economics
 
@@ -175,6 +178,7 @@ material. There is a total of 297 active links in the dataset.
 * [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) 
 * [Be anonymous](https://kg.dev/thoughts/be-anonymous) 
 * [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet-ng.org/) 
+* [Wi-Fine](https://wifine.gitlab.io/) 
 
 # Ethics
 
@@ -219,6 +223,7 @@ material. There is a total of 297 active links in the dataset.
 * [How I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/) 
 * [15 rules for blogging, and my current streak](https://interconnected.org/home/2020/09/10/streak) 
 * [A history of punctuation](https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation) 
+* [Writing one sentence per line](https://sive.rs/1s) 
 
 # Culture
 
@@ -261,6 +266,7 @@ material. There is a total of 297 active links in the dataset.
 * [Estimating the number of awkward toilet encounters created by Professor Hulk's heroic snap [Avengers: Endgame]](https://www.reddit.com/r/marvelstudios/comments/sxbtfz/estimating_the_number_of_awkward_toilet/) 
 * [Almost Everything in “Dr. Strangelove” Was True](https://www.newyorker.com/news/news-desk/almost-everything-in-dr-strangelove-was-true) 
 * [Digital vs. Practical Shots in MAD MAX: FURY ROAD | TIFF 2022](https://www.youtube.com/watch?v=exK_fVmY8Jk) 
+* [‘Annie Hall’: One of the Last Beautiful American Films of the Pre-Blockbuster Era](https://cinephiliabeyond.org/annie-hall-one-last-beautiful-american-films-pre-blockbuster-era/) 
 
 ## TV
 
@@ -282,6 +288,7 @@ material. There is a total of 297 active links in the dataset.
 * [The 500 Greatest Songs of All Time](https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/kanye-west-stronger-1224837/) 
 * [A Beginner’s Guide to Miles Davis](https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/) 
 * [Which Singers Have the Biggest Vocabularies?](https://word.tips/singers-vocabularies/) 
+* [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/) 
 
 ## Games
 
@@ -356,6 +363,7 @@ material. There is a total of 297 active links in the dataset.
 * [Travel hacks](https://matt.might.net/articles/travel-hacks/) 
 * [Some apps recommendations that will improve your solo travels](https://www.reddit.com/r/solotravel/comments/ui9qss/some_apps_recommendations_that_will_improve_your/) 
 * [Awesome Digital Nomads](https://github.com/cbovis/awesome-digital-nomads) 
+* [My 40-liter backpack travel guide](https://vitalik.ca/general/2022/06/20/backpack.html) 
 
 # Countries
 
@@ -431,6 +439,7 @@ material. There is a total of 297 active links in the dataset.
 
 * [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets) 
 * [We Should All Be More Afraid of Driving](https://www.theatlantic.com/ideas/archive/2021/05/car-accident/618766/) 
+* [How to Walk (12 miles a day)](https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day) 
 
 # Politics
 
