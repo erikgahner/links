@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 306 active links in the dataset.
+material. There is a total of 308 active links in the dataset.
 
 # Life
 
@@ -146,6 +146,7 @@ material. There is a total of 306 active links in the dataset.
 * [What does global warming spell for you… and your loved ones?](https://kontinentalist.com/stories/how-do-boomers-millennials-and-gen-z-feel-global-warming-differently) 
 * [How will climate change shape climate opinion?](https://iopscience.iop.org/article/10.1088/1748-9326/ab466a) 
 * [Place-Based Carbon Calculator](https://www.carbon.place/) 
+* [Personal list of interesting climate change & sustainability links](https://github.com/timothyclifford/planet-earth) 
 
 # Nature
 
@@ -171,6 +172,7 @@ material. There is a total of 306 active links in the dataset.
 * [Programming and Writing](http://antirez.com/news/135) 
 * [The History of Command Palettes: How Typing Commands Became The Norm Again](https://capiche.com/e/consumer-dev-tools-command-palette) 
 * [lon lat lon lat](https://macwright.com/lonlat/) 
+* [Elements of Programming](http://elementsofprogramming.com/) 
 
 # Privacy
 
@@ -468,6 +470,7 @@ material. There is a total of 306 active links in the dataset.
 * [Design Tip: Never Use Black](https://ianstormtaylor.com/design-tip-never-use-black/) 
 * [Why does the 📈 Chart Increasing emoji show in red?](https://blog.emojipedia.org/why-does-the-chart-increasing-emoji-show-in-red/) 
 * [The Psychology of Design](https://growth.design/psychology) 
+* [An interactive guide to color & contrast](https://colorandcontrast.com/) 
 
 # Architecture
 
