@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 308 active links in the dataset.
+material. There is a total of 311 active links in the dataset.
 
 # Life
 
@@ -117,6 +117,8 @@ material. There is a total of 308 active links in the dataset.
 * [The Mathematics of 2048: Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html) 
 * [Understanding Mathematics](https://www.math.utah.edu/~alfeld/math.html) 
 * [The Philosophy of Linear Algebra](https://sigfyg.medium.com/the-philosophy-of-linear-algebra-ac2d9ce14619) 
+* [Mathematics for Machine Learning](https://sebastianraschka.com/resources/math-for-ml/) 
+* [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/) 
 
 # Economics
 
@@ -132,6 +134,7 @@ material. There is a total of 308 active links in the dataset.
 * [The Economy](https://www.core-econ.org/the-economy/) 
 * [Game theory in popular culture](https://www.gametheory.net/popular/) 
 * [List of unsolved problems in economics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics) 
+* [Plausibly Exogenous Galore](https://www.notion.so/1a897b8106ca44eeaf31dcd5ae5a61b1?v=ff7dc75862c6427eb4243e91836e077e) 
 
 # Climate
 
