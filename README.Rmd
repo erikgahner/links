@@ -5,7 +5,7 @@ output: md_document
 # Links
 
 ```{r include=FALSE}
-knitr::opts_chunk$set(comment = NULL)
+knitr::opts_chunk$set(comment = NULL, echo = FALSE, message = FALSE, warning = FALSE, results = "asis")
 ```
 
 ```{r introCode, echo=FALSE, message=FALSE, warning=FALSE}
