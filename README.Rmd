@@ -19,7 +19,7 @@ df <- df_raw |>
 
 The repository consists of a dataset with curated links to great material. There is a total of `r NROW(df)` active links in the dataset. 
 
-# Life
+# ✨ Life
 
 ```{r linksLife, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -29,7 +29,7 @@ df |>
 ```
 
 
-# Work
+# 💼 Work
 
 ```{r linksWork, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -38,7 +38,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Food
+# 🍔 Food
 
 ```{r linksFood, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -47,7 +47,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Science
+# ⚗️Science
 
 ```{r linksScience, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -56,7 +56,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-## Biology
+## 🧬 Biology
 
 ```{r linksBiology, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -65,7 +65,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-## Physics
+## 🌠 Physics
 
 ```{r linksPhysics, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -74,7 +74,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-## Psychology
+## 🧠 Psychology
 
 ```{r linksPsychology, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -83,7 +83,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Mathematics
+# 📐 Mathematics
 
 ```{r linksMathematics, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -93,7 +93,7 @@ df |>
 ```
 
 
-# Economics
+# 💰 Economics
 
 ```{r linksEconomics, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -102,7 +102,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Climate
+# 🌍 Climate
 
 ```{r linksClimate, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -111,7 +111,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Nature
+# 🌳 Nature
 
 ```{r linksNature, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -120,7 +120,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Business
+# 💼 Business
 
 ```{r linksBusiness, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -129,7 +129,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Programming
+# 💻 Programming
 
 ```{r linksProgramming, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -138,7 +138,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Privacy
+# 🔒 Privacy
 
 ```{r linksPrivacy, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -147,7 +147,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Ethics
+# ⚖️ Ethics
 
 ```{r linksEthics, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -156,7 +156,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Technology
+# 🌐 Technology
 
 ```{r linksTechnology, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -165,7 +165,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Reasoning
+# 🤔 Reasoning
 
 ```{r linksReasoning, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -174,7 +174,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Writing
+# ✍️ Writing
 
 ```{r linksWriting, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -185,7 +185,7 @@ df |>
 
 # Culture
 
-## Art
+## 🎨 Art
 
 ```{r linksArt, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -194,7 +194,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-## Books
+## 📚 Books
 
 ```{r linksBooks, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -203,7 +203,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-## Movies
+## 🎬 Movies
 
 ```{r linksMovies, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -212,7 +212,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-## TV
+## 📺 TV
 
 ```{r linksTV, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -221,7 +221,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-## Music
+## 🎵 Music
 
 ```{r linksMusic, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -230,7 +230,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-## Games
+## 🎮 Games
 
 ```{r linksGames, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -239,7 +239,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-### Chess
+### ♟️Chess
 
 ```{r linksChess, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -248,7 +248,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Knowledge
+# 🎓 Knowledge
 
 ```{r linksKnowledge, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -275,7 +275,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Travel
+# ✈️ Travel
 
 ```{r linksTravel, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -349,7 +349,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Fashion
+# 👕 Fashion
 
 ```{r linksFashion, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -358,7 +358,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Health
+# ⚕️Health
 
 ```{r linksHealth, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -367,7 +367,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Sport
+# ⚽ Sport
 
 ```{r linksSport, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -376,7 +376,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Transport
+# 🚦 Transport
 
 ```{r linksTransport, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -385,7 +385,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Politics
+# 📜 Politics
 
 ```{r linksPolitics, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -394,7 +394,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# History
+# 📖 History
 
 ```{r linksHistory, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -403,7 +403,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Design
+# 📰 Design
 
 ```{r linksDesign, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -412,7 +412,7 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Architecture
+# 🏢 Architecture
 
 ```{r linksArchitecture, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
@@ -422,7 +422,7 @@ df |>
 ```
 
 
-# Essays
+# ✒️ Essays
 
 ```{r linksEssays, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
