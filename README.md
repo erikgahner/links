@@ -1,9 +1,9 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 315 active links in the dataset.
+material. There is a total of 318 active links in the dataset.
 
-# Life
+# ✨ Life
 
 -   [Life is Short](http://paulgraham.com/vb.html)
 -   [What Should You Do with Your Life? Directions and
@@ -43,7 +43,7 @@ material. There is a total of 315 active links in the dataset.
     database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
 -   [The Best](https://dcurt.is/the-best)
 
-# Work
+# 💼 Work
 
 -   [The Open-Office
     Trap](https://www.newyorker.com/business/currency/the-open-office-trap)
@@ -86,8 +86,10 @@ material. There is a total of 315 active links in the dataset.
     happiness](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
 -   [Curated list of valuable salary negotiation
     advice](https://github.com/petermekhaeil/salary-negotiating)
+-   [Changes from academia to
+    industry](https://russellwarne.com/2022/09/25/changes-from-academia-to-industry/)
 
-# Food
+# 🍔 Food
 
 -   [How Nespresso’s coffee revolution got ground
     down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment)
@@ -115,12 +117,12 @@ material. There is a total of 315 active links in the dataset.
 -   [The Kitchen Starter Kit: Essential Tools for Every
     Cook](https://www.seriouseats.com/basic-starter-kitchen-equipment)
 
-# Science
+# ⚗️Science
 
 -   [The Phrase ‘No Evidence’ Is A Red Flag For Bad Science
     Communication](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag)
 
-## Biology
+## 🧬 Biology
 
 -   [Is everything we eat associated with cancer? A systematic cookbook
     review](https://doi.org/10.3945/ajcn.112.047142)
@@ -129,14 +131,14 @@ material. There is a total of 315 active links in the dataset.
 -   [List of unusual biological
     names](https://en.wikipedia.org/wiki/List_of_unusual_biological_names)
 
-## Physics
+## 🌠 Physics
 
 -   [So You Want to Learn
     Physics…](https://www.susanrigetti.com/physics)
 -   [The moving sofa
     problem](https://www.math.ucdavis.edu/~romik/movingsofa/)
 
-## Psychology
+## 🧠 Psychology
 
 -   [“Reality” is constructed by your brain. Here’s what that means, and
     why it
@@ -160,7 +162,7 @@ material. There is a total of 315 active links in the dataset.
 -   [A map of cognitive biases in decision
     making](https://bias.visual-literacy.org/)
 
-# Mathematics
+# 📐 Mathematics
 
 -   [How to Study
     Mathematics](https://www.math.uh.edu/~dblecher/pf2.html)
@@ -191,8 +193,10 @@ material. There is a total of 315 active links in the dataset.
 -   [Mathematics for Machine
     Learning](https://sebastianraschka.com/resources/math-for-ml/)
 -   [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
+-   [Mathematical
+    Surprises](https://link.springer.com/book/10.1007/978-3-031-13566-8)
 
-# Economics
+# 💰 Economics
 
 -   [The economics of Christmas
     trees](https://thehustle.co/the-economics-of-christmas-trees/)
@@ -218,7 +222,7 @@ material. There is a total of 315 active links in the dataset.
 -   [Plausibly Exogenous
     Galore](https://www.notion.so/1a897b8106ca44eeaf31dcd5ae5a61b1?v=ff7dc75862c6427eb4243e91836e077e)
 
-# Climate
+# 🌍 Climate
 
 -   [What can a technologist do about climate
     change?](http://worrydream.com/ClimateChange/)
@@ -240,14 +244,14 @@ material. There is a total of 315 active links in the dataset.
 -   [Personal list of interesting climate change & sustainability
     links](https://github.com/timothyclifford/planet-earth)
 
-# Nature
+# 🌳 Nature
 
 -   [Everything You Might Want to Know about
     Whaling](https://mattlakeman.org/2021/06/01/everything-you-might-want-to-know-about-whaling/)
 -   [Remarkable Trees Throughout The
     World](https://mossandfog.com/remarkable-trees-throughout-the-world/)
 
-# Business
+# 💼 Business
 
 -   [Memos](https://sriramk.com/memos)
 -   [The Observer Effect – Daniel
@@ -262,7 +266,7 @@ material. There is a total of 315 active links in the dataset.
 -   [Think about
     Equity](https://foundersatwork.posthaven.com/think-about-equity)
 
-# Programming
+# 💻 Programming
 
 -   [Programmer Competency
     Matrix](https://sijinjoseph.com/programmer-competency-matrix/)
@@ -273,7 +277,7 @@ material. There is a total of 315 active links in the dataset.
 -   [lon lat lon lat](https://macwright.com/lonlat/)
 -   [Elements of Programming](http://elementsofprogramming.com/)
 
-# Privacy
+# 🔒 Privacy
 
 -   [Guide to securing and improving privacy on
     macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
@@ -282,14 +286,14 @@ material. There is a total of 315 active links in the dataset.
     Anonymity](https://anonymousplanet-ng.org/)
 -   [Wi-Fine](https://wifine.gitlab.io/)
 
-# Ethics
+# ⚖️ Ethics
 
 -   [Refrigerator safety study: Case study
     analysis](https://doi.org/10.1177/1747016113489934)
 -   [Research Ethics
     Timeline](https://www.niehs.nih.gov/research/resources/bioethics/timeline/index.cfm)
 
-# Technology
+# 🌐 Technology
 
 -   [The documentation system](https://documentation.divio.com/)
 -   [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
@@ -314,7 +318,7 @@ material. There is a total of 315 active links in the dataset.
     Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 -   [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
 
-# Reasoning
+# 🤔 Reasoning
 
 -   [How To Understand Things](https://nabeelqu.co/understanding)
 -   [In 40 tweets I will describe 40 powerful concepts for understanding
@@ -331,7 +335,7 @@ material. There is a total of 315 active links in the dataset.
 -   [Thinking in Bets: How to Make Decisions Like a Poker
     Player](https://fronterablog.com/thinking-in-bets/)
 
-# Writing
+# ✍️ Writing
 
 -   [Why the title of your paper
     matters](https://www.nature.com/articles/s41562-021-01152-2)
@@ -348,7 +352,7 @@ material. There is a total of 315 active links in the dataset.
 
 # Culture
 
-## Art
+## 🎨 Art
 
 -   [Van Gogh’s Ugliest
     Masterpiece](https://www.youtube.com/watch?v=nKNAZr0QJzs)
@@ -364,7 +368,7 @@ material. There is a total of 315 active links in the dataset.
 -   [The Where’s Waldo
     Legacy](https://www.youtube.com/watch?v=_Kpfe1k6CuM)
 
-## Books
+## 📚 Books
 
 -   [Who Did J.K. Rowling
     Become?](https://www.vulture.com/article/who-did-j-k-rowling-become.html)
@@ -379,7 +383,7 @@ material. There is a total of 315 active links in the dataset.
 -   [The 666 greatest novels of all
     time](http://www.editoreric.com/greatlit/greatest-novels.html)
 
-## Movies
+## 🎬 Movies
 
 -   [Akira Kurosawa - Composing
     Movement](https://www.youtube.com/watch?v=doaQC-S8de8)
@@ -417,7 +421,7 @@ material. There is a total of 315 active links in the dataset.
     Pre-Blockbuster
     Era](https://cinephiliabeyond.org/annie-hall-one-last-beautiful-american-films-pre-blockbuster-era/)
 
-## TV
+## 📺 TV
 
 -   [An option value problem from
     Seinfeld](https://doi.org/10.1111/j.1465-7295.2011.00377.x)
@@ -432,7 +436,7 @@ material. There is a total of 315 active links in the dataset.
 -   [Peep Show – The Most Realistic Portrayal of Evil Ever
     Made](https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/)
 
-## Music
+## 🎵 Music
 
 -   [A beginner’s guide to modern art
     jazz](https://lukemuehlhauser.com/a-beginners-guide-to-modern-art-jazz/)
@@ -451,7 +455,7 @@ material. There is a total of 315 active links in the dataset.
 -   [Music Theory for the 21st-Century
     Classroom](https://musictheory.pugetsound.edu/mt21c/)
 
-## Games
+## 🎮 Games
 
 -   [Knowing When To Fold \`Em: The Science of
     Poker](https://blogs.scientificamerican.com/cocktail-party-physics/knowing-when-to-fold-em-the-science-of-poker/)
@@ -495,7 +499,7 @@ material. There is a total of 315 active links in the dataset.
 -   [An Apology for Roger
     Ebert](https://www.youtube.com/watch?v=cvZhRin-plA)
 
-### Chess
+### ♟️Chess
 
 -   [A Beginner’s Garden of Chess
     Openings](https://dwheeler.com/chess-openings/)
@@ -511,7 +515,7 @@ material. There is a total of 315 active links in the dataset.
 -   [From 1400 to 2000 in Blitz on Chess.com - A 10½ Year
     Journey](https://saychess.substack.com/p/from-1400-to-2000-in-blitz-on-chesscom)
 
-# Knowledge
+# 🎓 Knowledge
 
 -   [User:Emijrp/All Human
     Knowledge](https://www.wikidata.org/wiki/User:Emijrp/All_Human_Knowledge)
@@ -553,7 +557,7 @@ material. There is a total of 315 active links in the dataset.
 -   [50 Tongue Twisters to improve pronunciation in
     English](https://www.engvid.com/english-resource/50-tongue-twisters-improve-pronunciation/)
 
-# Travel
+# ✈️ Travel
 
 -   [This Is Why Your Holiday Travel Is
     Awful](https://www.politico.com/amp/news/magazine/2019/11/29/penn-station-robert-caro-073564)
@@ -610,16 +614,18 @@ material. There is a total of 315 active links in the dataset.
 -   [Every mass shooting in the US – a visual
     database](https://www.theguardian.com/us-news/ng-interactive/2021/may/27/us-mass-shootings-database)
 
-# Fashion
+# 👕 Fashion
 
 -   [Why did men stop wearing high
     heels?](https://www.bbc.co.uk/news/magazine-21151350)
--   [How To Develop Good Taste, Pt.
+-   [How to Develop Good Taste, Pt.
     1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/)
 -   [How to Develop Good Taste, Pt.
     2](https://dieworkwear.com/2022/09/14/how-to-develop-good-taste-pt-2/)
+-   [How to Develop Good Taste, Pt.
+    3](https://dieworkwear.com/2022/09/23/how-to-develop-good-taste-pt-3/)
 
-# Health
+# ⚕️Health
 
 -   [The Scientific 7-Minute
     Workout](https://www.nytimes.com/interactive/projects/well/workouts/)
@@ -643,7 +649,7 @@ material. There is a total of 315 active links in the dataset.
 -   [Build Muscle](https://www.julian.com/guide/muscle/intro)
 -   [The Fitness Wiki](https://thefitness.wiki/)
 
-# Sport
+# ⚽ Sport
 
 -   [The economics of the Tour de
     France](https://thehustle.co/the-economics-of-the-tour-de-france/)
@@ -653,7 +659,7 @@ material. There is a total of 315 active links in the dataset.
     Ever](https://www.smithsonianmag.com/history/the-1904-olympic-marathon-may-have-been-the-strangest-ever-14910747/)
 -   [Soccermatics](https://soccermatics.readthedocs.io/)
 
-# Transport
+# 🚦 Transport
 
 -   [50 Reasons Why Everyone Should Want More Walkable
     Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
@@ -662,17 +668,17 @@ material. There is a total of 315 active links in the dataset.
 -   [How to Walk (12 miles a
     day)](https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day)
 
-# Politics
+# 📜 Politics
 
 -   [List of frivolous political
     parties](https://en.wikipedia.org/wiki/List_of_frivolous_political_parties)
 
-# History
+# 📖 History
 
 -   [Civilisation (1969) | Kenneth
     Clark](https://www.youtube.com/playlist?list=PLw1dGa3bvXdV1hpzs_B5Ai7iB0cFs6a3w)
 
-# Design
+# 📰 Design
 
 -   [The UX of LEGO Interface
     Panels](https://interactionmagic.com/UX-LEGO-Interfaces)
@@ -701,7 +707,7 @@ material. There is a total of 315 active links in the dataset.
 -   [An interactive guide to color &
     contrast](https://colorandcontrast.com/)
 
-# Architecture
+# 🏢 Architecture
 
 -   [Bastion forts around the
     world](https://twitter.com/xruiztru/status/1264480689413636096)
@@ -711,7 +717,7 @@ material. There is a total of 315 active links in the dataset.
     short](https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/)
 -   [A modern home](https://johnnyrodgers.is/building-a-modern-home)
 
-# Essays
+# ✒️ Essays
 
 -   [Hiroshima](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
 -   [What Really Happened to Malaysia’s Missing
