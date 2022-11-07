@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 318 active links in the dataset.
+material. There is a total of 322 active links in the dataset.
 
 # ✨ Life
 
@@ -137,6 +137,7 @@ material. There is a total of 318 active links in the dataset.
     Physics…](https://www.susanrigetti.com/physics)
 -   [The moving sofa
     problem](https://www.math.ucdavis.edu/~romik/movingsofa/)
+-   [Sound](https://ciechanow.ski/sound/)
 
 ## 🧠 Psychology
 
@@ -195,6 +196,7 @@ material. There is a total of 318 active links in the dataset.
 -   [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
 -   [Mathematical
     Surprises](https://link.springer.com/book/10.1007/978-3-031-13566-8)
+-   [The Geometry Junkyard](https://www.ics.uci.edu/~eppstein/junkyard/)
 
 # 💰 Economics
 
@@ -285,6 +287,7 @@ material. There is a total of 318 active links in the dataset.
 -   [The Hitchhiker’s Guide to Online
     Anonymity](https://anonymousplanet-ng.org/)
 -   [Wi-Fine](https://wifine.gitlab.io/)
+-   [Use RSS for privacy and efficiency](https://rsapkf.org/weblog/q2z)
 
 # ⚖️ Ethics
 
@@ -588,6 +591,8 @@ material. There is a total of 318 active links in the dataset.
     facts](https://madeby.tfl.gov.uk/2019/07/29/tube-trivia-and-facts/)
 -   [Canterbury – Best Things to See – City Walk & History Canterbury,
     England](https://www.youtube.com/watch?v=y22jCbxEBVM)
+-   [A tour of The UK and Ireland in
+    accents](https://www.youtube.com/watch?v=-8mzWkuOxz8)
 
 ## Netherlands
 
