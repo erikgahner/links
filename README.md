@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 322 active links in the dataset.
+material. There is a total of 327 active links in the dataset.
 
 # ✨ Life
 
@@ -337,6 +337,8 @@ material. There is a total of 322 active links in the dataset.
     works](https://aeon.co/essays/why-is-simplicity-so-unreasonably-effective-at-scientific-explanation)
 -   [Thinking in Bets: How to Make Decisions Like a Poker
     Player](https://fronterablog.com/thinking-in-bets/)
+-   [Mental Models: The Best Way to Make Intelligent Decisions (~100
+    Models Explained)](https://fs.blog/mental-models/)
 
 # ✍️ Writing
 
@@ -571,6 +573,8 @@ material. There is a total of 322 active links in the dataset.
     Nomads](https://github.com/cbovis/awesome-digital-nomads)
 -   [My 40-liter backpack travel
     guide](https://vitalik.ca/general/2022/06/20/backpack.html)
+-   [Top 100 Places To Visit in
+    Europe](https://www.youtube.com/watch?v=IQzfprW0Yl0)
 
 # Countries
 
@@ -613,11 +617,21 @@ material. There is a total of 322 active links in the dataset.
 -   [Suez Crisis 1956 (All
     Parts)](https://www.youtube.com/watch?v=lLvqZ1ufLwk)
 
+## Saudi Arabia
+
+-   [Notes on
+    Saudi Arabia](https://mattlakeman.org/2022/11/22/notes-on-saudi-arabia/)
+
 ## United States
 
 -   [Field notes: Miami](https://devonzuegel.com/post/field-notes-miami)
 -   [Every mass shooting in the US – a visual
     database](https://www.theguardian.com/us-news/ng-interactive/2021/may/27/us-mass-shootings-database)
+
+## Japan
+
+-   [Recommendations for Japan
+    travel](https://www.kalzumeus.com/japan-recommendations/)
 
 # 👕 Fashion
 
@@ -629,6 +643,7 @@ material. There is a total of 322 active links in the dataset.
     2](https://dieworkwear.com/2022/09/14/how-to-develop-good-taste-pt-2/)
 -   [How to Develop Good Taste, Pt.
     3](https://dieworkwear.com/2022/09/23/how-to-develop-good-taste-pt-3/)
+-   [The Sartorialist](https://www.thesartorialist.com/)
 
 # ⚕️Health
 

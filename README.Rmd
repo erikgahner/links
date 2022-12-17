@@ -340,11 +340,29 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+## Saudi Arabia
+
+```{r linksSaudiArabia, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "SaudiArabia") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 ## United States
 
 ```{r linksUS, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "US") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Japan
+
+```{r linksJapan, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "Japan") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
