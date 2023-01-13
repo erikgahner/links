@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 327 active links in the dataset.
+material. There is a total of 330 active links in the dataset.
 
 # ✨ Life
 
@@ -223,6 +223,8 @@ material. There is a total of 327 active links in the dataset.
     economics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics)
 -   [Plausibly Exogenous
     Galore](https://www.notion.so/1a897b8106ca44eeaf31dcd5ae5a61b1?v=ff7dc75862c6427eb4243e91836e077e)
+-   [The Economics Of |
+    WSJ](https://www.youtube.com/playlist?list=PLqQNt9DP_BNBKa8ss5ROk2wLYl9JUdeYS)
 
 # 🌍 Climate
 
@@ -354,6 +356,12 @@ material. There is a total of 327 active links in the dataset.
 -   [A history of
     punctuation](https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation)
 -   [Writing one sentence per line](https://sive.rs/1s)
+
+## LaTeX
+
+-   [The Art of LaTeX: Common Mistakes, and Advice for Typesetting
+    Beautiful, Delightful
+    Proofs](https://fanpu.io/blog/2023/latex-tips/)
 
 # Culture
 
@@ -736,6 +744,8 @@ material. There is a total of 327 active links in the dataset.
 -   [Why skyscrapers are so
     short](https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/)
 -   [A modern home](https://johnnyrodgers.is/building-a-modern-home)
+-   [104 Mesmerizing Mosque Ceilings That Highlight The Wonders Of
+    Islamic Architecture](https://www.boredpanda.com/mosque-ceilings/)
 
 # ✒️ Essays
 
