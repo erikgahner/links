@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 330 active links in the dataset.
+material. There is a total of 335 active links in the dataset.
 
 # ✨ Life
 
@@ -42,6 +42,7 @@ material. There is a total of 330 active links in the dataset.
 -   [How I put my whole life into a single
     database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
 -   [The Best](https://dcurt.is/the-best)
+-   [Life Stats](https://neal.fun/life-stats/)
 
 # 💼 Work
 
@@ -197,6 +198,7 @@ material. There is a total of 330 active links in the dataset.
 -   [Mathematical
     Surprises](https://link.springer.com/book/10.1007/978-3-031-13566-8)
 -   [The Geometry Junkyard](https://www.ics.uci.edu/~eppstein/junkyard/)
+-   [Algebra Rules for Arithmetic](http://algebrarules.com/)
 
 # 💰 Economics
 
@@ -380,6 +382,8 @@ material. There is a total of 330 active links in the dataset.
     gigapixels)](https://hyper-resolution.org/Nightwatch5)
 -   [The Where’s Waldo
     Legacy](https://www.youtube.com/watch?v=_Kpfe1k6CuM)
+-   [Closer to Johannes
+    Vermeer](https://www.rijksmuseum.nl/en/johannes-vermeer)
 
 ## 📚 Books
 
@@ -527,6 +531,8 @@ material. There is a total of 330 active links in the dataset.
     Chess](https://www.bargava.com/blog/suck-less-at-chess/)
 -   [From 1400 to 2000 in Blitz on Chess.com - A 10½ Year
     Journey](https://saychess.substack.com/p/from-1400-to-2000-in-blitz-on-chesscom)
+-   [Ain’t it funny how the knight
+    moves?](https://www.funnyhowtheknightmoves.com/)
 
 # 🎓 Knowledge
 
@@ -705,6 +711,8 @@ material. There is a total of 330 active links in the dataset.
 
 -   [Civilisation (1969) | Kenneth
     Clark](https://www.youtube.com/playlist?list=PLw1dGa3bvXdV1hpzs_B5Ai7iB0cFs6a3w)
+-   [Famous Cases & Criminals -
+    FBI](https://www.fbi.gov/history/famous-cases)
 
 # 📰 Design
 
