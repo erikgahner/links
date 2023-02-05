@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 335 active links in the dataset.
+material. There is a total of 337 active links in the dataset.
 
 # ✨ Life
 
@@ -489,12 +489,8 @@ material. There is a total of 335 active links in the dataset.
     2](https://www.johnsto.co.uk/design/making-dust2/)
 -   [How Flash games shaped the video game
     industry](https://www.flashgamehistory.com/)
--   [10 Positions Chess Engines Just Don’t
-    Understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
 -   [The Hotline Miami
     Story](https://www.youtube.com/watch?v=ilKzuY9tjyg)
--   [Doc Pop’s One-Dimensional
-    Chess](https://docpop.gumroad.com/l/1DChess)
 -   [Deep Play? Video Games and the Historical
     Imaginary](https://doi.org/10.1093/ahr/rhab002)
 -   [History of Grand Theft Auto (1984 –
@@ -520,6 +516,10 @@ material. There is a total of 335 active links in the dataset.
 
 -   [A Beginner’s Garden of Chess
     Openings](https://dwheeler.com/chess-openings/)
+-   [10 Positions Chess Engines Just Don’t
+    Understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
+-   [Doc Pop’s One-Dimensional
+    Chess](https://docpop.gumroad.com/l/1DChess)
 -   [How Long Does It Take Ordinary People To Get Good At
     Chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md)
 -   [Introduction to Pawn Endgames | Principles of Chess Endgames | GM
@@ -682,6 +682,8 @@ material. There is a total of 335 active links in the dataset.
     loss](https://matt.might.net/articles/least-resistance-weight-loss/)
 -   [Build Muscle](https://www.julian.com/guide/muscle/intro)
 -   [The Fitness Wiki](https://thefitness.wiki/)
+-   [Interactive Cancer Risk
+    Matrix](https://www.wcrf.org/diet-activity-and-cancer/interactive-cancer-risk-matrix/)
 
 # ⚽ Sport
 
@@ -713,6 +715,8 @@ material. There is a total of 335 active links in the dataset.
     Clark](https://www.youtube.com/playlist?list=PLw1dGa3bvXdV1hpzs_B5Ai7iB0cFs6a3w)
 -   [Famous Cases & Criminals -
     FBI](https://www.fbi.gov/history/famous-cases)
+-   [Yale Courses (European
+    History)](https://www.youtube.com/playlist?list=PLp-cIkvQ88-1_nvZZ2-i5j90J3llXJl1o)
 
 # 📰 Design
 
