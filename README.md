@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 337 active links in the dataset.
+material. There is a total of 339 active links in the dataset.
 
 # ✨ Life
 
@@ -399,6 +399,8 @@ material. There is a total of 337 active links in the dataset.
     History](https://lithub.com/the-25-most-iconic-book-covers-in-history/)
 -   [The 666 greatest novels of all
     time](http://www.editoreric.com/greatlit/greatest-novels.html)
+-   [The 100 Best Children’s Books of All
+    Time](https://time.com/100-best-childrens-books/)
 
 ## 🎬 Movies
 
@@ -533,6 +535,8 @@ material. There is a total of 337 active links in the dataset.
     Journey](https://saychess.substack.com/p/from-1400-to-2000-in-blitz-on-chesscom)
 -   [Ain’t it funny how the knight
     moves?](https://www.funnyhowtheknightmoves.com/)
+-   [Assessing Game Balance with AlphaZero: Exploring Alternative Rule
+    Sets in Chess](https://arxiv.org/abs/2009.04374)
 
 # 🎓 Knowledge
 
