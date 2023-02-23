@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 339 active links in the dataset.
+material. There is a total of 343 active links in the dataset.
 
 # ✨ Life
 
@@ -117,6 +117,9 @@ material. There is a total of 339 active links in the dataset.
     Noodles](https://www.seriouseats.com/asian-noodle-shopping-guide)
 -   [The Kitchen Starter Kit: Essential Tools for Every
     Cook](https://www.seriouseats.com/basic-starter-kitchen-equipment)
+-   [Different types of Pizza and
+    toppings](https://www.pizzarecipe.org/different-types-of-pizza/)
+-   [GrimGrains](https://grimgrains.com/site/home.html)
 
 # ⚗️Science
 
@@ -401,6 +404,8 @@ material. There is a total of 339 active links in the dataset.
     time](http://www.editoreric.com/greatlit/greatest-novels.html)
 -   [The 100 Best Children’s Books of All
     Time](https://time.com/100-best-childrens-books/)
+-   [The 100 greatest non-fiction
+    books](https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books)
 
 ## 🎬 Movies
 
@@ -620,6 +625,7 @@ material. There is a total of 339 active links in the dataset.
 
 -   [The ultimate guide to visiting
     Amsterdam](https://www.notion.so/The-ultimate-guide-to-visiting-Amsterdam-2002074140be4a12b9e79f75708be171)
+-   [Amsterdam Coffeeshop Directory](https://www.coffeeshopdirect.com/)
 
 ## Germany
 
