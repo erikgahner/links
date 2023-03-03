@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 343 active links in the dataset.
+material. There is a total of 350 active links in the dataset.
 
 # ✨ Life
 
@@ -43,6 +43,8 @@ material. There is a total of 343 active links in the dataset.
     database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
 -   [The Best](https://dcurt.is/the-best)
 -   [Life Stats](https://neal.fun/life-stats/)
+-   [100 Tips For A Better
+    Life](https://ideopunk.com/blog/tipsforabetterlife)
 
 # 💼 Work
 
@@ -202,6 +204,8 @@ material. There is a total of 343 active links in the dataset.
     Surprises](https://link.springer.com/book/10.1007/978-3-031-13566-8)
 -   [The Geometry Junkyard](https://www.ics.uci.edu/~eppstein/junkyard/)
 -   [Algebra Rules for Arithmetic](http://algebrarules.com/)
+-   [An Intuitive Guide To Exponential Functions &
+    e](https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/)
 
 # 💰 Economics
 
@@ -230,6 +234,8 @@ material. There is a total of 343 active links in the dataset.
     Galore](https://www.notion.so/1a897b8106ca44eeaf31dcd5ae5a61b1?v=ff7dc75862c6427eb4243e91836e077e)
 -   [The Economics Of |
     WSJ](https://www.youtube.com/playlist?list=PLqQNt9DP_BNBKa8ss5ROk2wLYl9JUdeYS)
+-   [The A to Z of
+    economics](https://www.economist.com/economics-a-to-z)
 
 # 🌍 Climate
 
@@ -542,6 +548,10 @@ material. There is a total of 343 active links in the dataset.
     moves?](https://www.funnyhowtheknightmoves.com/)
 -   [Assessing Game Balance with AlphaZero: Exploring Alternative Rule
     Sets in Chess](https://arxiv.org/abs/2009.04374)
+-   [What is Chess? What to think and how long
+    for](https://www.alexcrompton.com/blog/time-thoughts-chess)
+-   [Opening
+    Principles](https://www.danheisman.com/opening-principles.html)
 
 # 🎓 Knowledge
 
@@ -598,6 +608,8 @@ material. There is a total of 343 active links in the dataset.
     guide](https://vitalik.ca/general/2022/06/20/backpack.html)
 -   [Top 100 Places To Visit in
     Europe](https://www.youtube.com/watch?v=IQzfprW0Yl0)
+-   [Practical Tips from Years of Traveling The
+    World](https://www.legalnomads.com/tips-world-travel/)
 
 # Countries
 
@@ -727,6 +739,8 @@ material. There is a total of 343 active links in the dataset.
     FBI](https://www.fbi.gov/history/famous-cases)
 -   [Yale Courses (European
     History)](https://www.youtube.com/playlist?list=PLp-cIkvQ88-1_nvZZ2-i5j90J3llXJl1o)
+-   [Captivating
+    History](https://www.youtube.com/@CaptivatingHistory/videos)
 
 # 📰 Design
 
