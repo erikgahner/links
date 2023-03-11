@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 350 active links in the dataset.
+material. There is a total of 353 active links in the dataset.
 
 # ✨ Life
 
@@ -236,6 +236,7 @@ material. There is a total of 350 active links in the dataset.
     WSJ](https://www.youtube.com/playlist?list=PLqQNt9DP_BNBKa8ss5ROk2wLYl9JUdeYS)
 -   [The A to Z of
     economics](https://www.economist.com/economics-a-to-z)
+-   [The Economics of Seinfeld](http://yadayadayadaecon.com/)
 
 # 🌍 Climate
 
@@ -638,6 +639,7 @@ material. There is a total of 350 active links in the dataset.
 -   [The ultimate guide to visiting
     Amsterdam](https://www.notion.so/The-ultimate-guide-to-visiting-Amsterdam-2002074140be4a12b9e79f75708be171)
 -   [Amsterdam Coffeeshop Directory](https://www.coffeeshopdirect.com/)
+-   [NOS Nieuws van de Week](https://www.youtube.com/nosnieuwsvandeweek)
 
 ## Germany
 
@@ -770,6 +772,7 @@ material. There is a total of 350 active links in the dataset.
 -   [The Psychology of Design](https://growth.design/psychology)
 -   [An interactive guide to color &
     contrast](https://colorandcontrast.com/)
+-   [UX Case Studies](https://growth.design/case-studies)
 
 # 🏢 Architecture
 
