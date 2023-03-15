@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 353 active links in the dataset.
+material. There is a total of 356 active links in the dataset.
 
 # ✨ Life
 
@@ -45,6 +45,8 @@ material. There is a total of 353 active links in the dataset.
 -   [Life Stats](https://neal.fun/life-stats/)
 -   [100 Tips For A Better
     Life](https://ideopunk.com/blog/tipsforabetterlife)
+-   [Why I Hope to Die at
+    75](https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/)
 
 # 💼 Work
 
@@ -368,6 +370,9 @@ material. There is a total of 353 active links in the dataset.
 -   [A history of
     punctuation](https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation)
 -   [Writing one sentence per line](https://sive.rs/1s)
+-   [En dash, em dash and hyphen; what’s the difference? (also ndash and
+    mdash, or n-dash and
+    m-dash)](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
 
 ## LaTeX
 
@@ -553,6 +558,9 @@ material. There is a total of 353 active links in the dataset.
     for](https://www.alexcrompton.com/blog/time-thoughts-chess)
 -   [Opening
     Principles](https://www.danheisman.com/opening-principles.html)
+-   [A data-driven exploration of the evolution of chess: Popularity of
+    openings over
+    time](https://randalolson.com/2014/05/26/a-data-driven-exploration-of-the-evolution-of-chess-popularity-of-openings/)
 
 # 🎓 Knowledge
 
