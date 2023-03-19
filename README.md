@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 356 active links in the dataset.
+material. There is a total of 358 active links in the dataset.
 
 # ✨ Life
 
@@ -399,6 +399,7 @@ material. There is a total of 356 active links in the dataset.
     Legacy](https://www.youtube.com/watch?v=_Kpfe1k6CuM)
 -   [Closer to Johannes
     Vermeer](https://www.rijksmuseum.nl/en/johannes-vermeer)
+-   [SMK OPEN](https://open.smk.dk/en/)
 
 ## 📚 Books
 
@@ -648,6 +649,8 @@ material. There is a total of 356 active links in the dataset.
     Amsterdam](https://www.notion.so/The-ultimate-guide-to-visiting-Amsterdam-2002074140be4a12b9e79f75708be171)
 -   [Amsterdam Coffeeshop Directory](https://www.coffeeshopdirect.com/)
 -   [NOS Nieuws van de Week](https://www.youtube.com/nosnieuwsvandeweek)
+-   [Taxes in the Netherlands: a guide to the Dutch tax
+    system](https://www.expatica.com/nl/finance/taxes/netherlands-tax-system-103981/)
 
 ## Germany
 
