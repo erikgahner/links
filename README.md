@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 358 active links in the dataset.
+material. There is a total of 362 active links in the dataset.
 
 # ✨ Life
 
@@ -124,6 +124,8 @@ material. There is a total of 358 active links in the dataset.
 -   [Different types of Pizza and
     toppings](https://www.pizzarecipe.org/different-types-of-pizza/)
 -   [GrimGrains](https://grimgrains.com/site/home.html)
+-   [How to Eat Street Food Without Getting
+    Sick](https://www.legalnomads.com/street-food/)
 
 # ⚗️Science
 
@@ -239,6 +241,8 @@ material. There is a total of 358 active links in the dataset.
 -   [The A to Z of
     economics](https://www.economist.com/economics-a-to-z)
 -   [The Economics of Seinfeld](http://yadayadayadaecon.com/)
+-   [Awesome
+    Economics](https://github.com/antontarasenko/awesome-economics)
 
 # 🌍 Climate
 
@@ -562,6 +566,8 @@ material. There is a total of 358 active links in the dataset.
 -   [A data-driven exploration of the evolution of chess: Popularity of
     openings over
     time](https://randalolson.com/2014/05/26/a-data-driven-exploration-of-the-evolution-of-chess-popularity-of-openings/)
+-   [A Visual Look at 2 Million Chess
+    Games](https://blog.ebemunk.com/a-visual-look-at-2-million-chess-games/)
 
 # 🎓 Knowledge
 
@@ -820,3 +826,5 @@ material. There is a total of 358 active links in the dataset.
     Buzz](https://www.newyorker.com/magazine/2021/09/27/an-ex-drinkers-search-for-a-sober-buzz)
 -   [The Devil at 37,000
     Feet](https://archive.vanityfair.com/article/2009/1/the-devil-at-37000-feet)
+-   [The age of
+    average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
