@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 362 active links in the dataset.
+material. There is a total of 364 active links in the dataset.
 
 # ✨ Life
 
@@ -648,6 +648,8 @@ material. There is a total of 362 active links in the dataset.
     England](https://www.youtube.com/watch?v=y22jCbxEBVM)
 -   [A tour of The UK and Ireland in
     accents](https://www.youtube.com/watch?v=-8mzWkuOxz8)
+-   [Old Maps and Books -
+    thehunthouse](https://www.maps.thehunthouse.com/)
 
 ## Netherlands
 
@@ -802,6 +804,8 @@ material. There is a total of 362 active links in the dataset.
 -   [A modern home](https://johnnyrodgers.is/building-a-modern-home)
 -   [104 Mesmerizing Mosque Ceilings That Highlight The Wonders Of
     Islamic Architecture](https://www.boredpanda.com/mosque-ceilings/)
+-   [Vernacular Economics: How Building Codes & Taxes Shape Regional
+    Architecture](https://99percentinvisible.org/article/vernacular-economics-building-codes-taxes-shape-regional-architecture/)
 
 # ✒️ Essays
 
