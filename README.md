@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 364 active links in the dataset.
+material. There is a total of 367 active links in the dataset.
 
 # ✨ Life
 
@@ -423,6 +423,7 @@ material. There is a total of 364 active links in the dataset.
     Time](https://time.com/100-best-childrens-books/)
 -   [The 100 greatest non-fiction
     books](https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books)
+-   [Why books donʼt work](https://andymatuschak.org/books/)
 
 ## 🎬 Movies
 
@@ -568,6 +569,9 @@ material. There is a total of 364 active links in the dataset.
     time](https://randalolson.com/2014/05/26/a-data-driven-exploration-of-the-evolution-of-chess-popularity-of-openings/)
 -   [A Visual Look at 2 Million Chess
     Games](https://blog.ebemunk.com/a-visual-look-at-2-million-chess-games/)
+-   [How to Get Good at Chess, Fast: A simple, step-by-step guide to
+    rapid chess
+    improvement](https://www.gautamnarula.com/how-to-get-good-at-chess-fast/)
 
 # 🎓 Knowledge
 
@@ -579,6 +583,8 @@ material. There is a total of 364 active links in the dataset.
     Articles](https://jaranta.github.io/getting-access-to-paywalled-articles/)
 -   [List of lists of
     lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+-   [Effective Spaced
+    Repetition](https://borretti.me/article/effective-spaced-repetition)
 
 # Language
 
