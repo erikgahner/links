@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 367 active links in the dataset.
+material. There is a total of 370 active links in the dataset.
 
 # ✨ Life
 
@@ -496,6 +496,8 @@ material. There is a total of 367 active links in the dataset.
     Vocabularies?](https://word.tips/singers-vocabularies/)
 -   [Music Theory for the 21st-Century
     Classroom](https://musictheory.pugetsound.edu/mt21c/)
+-   [A beginner’s guide to modern classical
+    music](https://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4/)
 
 ## 🎮 Games
 
@@ -733,6 +735,7 @@ material. There is a total of 367 active links in the dataset.
 -   [The Fitness Wiki](https://thefitness.wiki/)
 -   [Interactive Cancer Risk
     Matrix](https://www.wcrf.org/diet-activity-and-cancer/interactive-cancer-risk-matrix/)
+-   [Stretch 15](https://stretch15.com/)
 
 # ⚽ Sport
 
@@ -768,6 +771,8 @@ material. There is a total of 367 active links in the dataset.
     History)](https://www.youtube.com/playlist?list=PLp-cIkvQ88-1_nvZZ2-i5j90J3llXJl1o)
 -   [Captivating
     History](https://www.youtube.com/@CaptivatingHistory/videos)
+-   [The Analog
+    Antiquarian](https://analog-antiquarian.net/2019/01/09/table-of-contents/)
 
 # 📰 Design
 
