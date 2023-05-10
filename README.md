@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 370 active links in the dataset.
+material. There is a total of 372 active links in the dataset.
 
 # ✨ Life
 
@@ -671,6 +671,15 @@ material. There is a total of 370 active links in the dataset.
 ## Germany
 
 -   [How To F#€k Up An Airport](https://www.radiospaetkauf.com/ber/)
+
+## Italy
+
+-   [The Shape of Rome](https://www.exurbe.com/the-shape-of-rome/)
+
+## Nigeria
+
+-   [Notes on
+    Nigeria](https://mattlakeman.org/2023/05/09/notes-on-nigeria/)
 
 ## Russia
 
