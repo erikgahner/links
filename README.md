@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 372 active links in the dataset.
+material. There is a total of 374 active links in the dataset.
 
 # ✨ Life
 
@@ -210,6 +210,8 @@ material. There is a total of 372 active links in the dataset.
 -   [Algebra Rules for Arithmetic](http://algebrarules.com/)
 -   [An Intuitive Guide To Exponential Functions &
     e](https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/)
+-   [Everything You Always Wanted To Know About
+    Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 
 # 💰 Economics
 
@@ -671,6 +673,7 @@ material. There is a total of 372 active links in the dataset.
 ## Germany
 
 -   [How To F#€k Up An Airport](https://www.radiospaetkauf.com/ber/)
+-   [All About Berlin](https://allaboutberlin.com/)
 
 ## Italy
 
