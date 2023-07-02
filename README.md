@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 374 active links in the dataset.
+material. There is a total of 376 active links in the dataset.
 
 # ✨ Life
 
@@ -126,6 +126,8 @@ material. There is a total of 374 active links in the dataset.
 -   [GrimGrains](https://grimgrains.com/site/home.html)
 -   [How to Eat Street Food Without Getting
     Sick](https://www.legalnomads.com/street-food/)
+-   [150 Most Legendary Restaurants in the World & Their Iconic
+    Dishes](https://www.tasteatlas.com/iconic-dishes-legendary-restaurants)
 
 # ⚗️Science
 
@@ -245,6 +247,8 @@ material. There is a total of 374 active links in the dataset.
 -   [The Economics of Seinfeld](http://yadayadayadaecon.com/)
 -   [Awesome
     Economics](https://github.com/antontarasenko/awesome-economics)
+-   [Pricing Money: A Beginner’s Guide to Money. Bonds, Futures and
+    Swaps](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
 
 # 🌍 Climate
 
