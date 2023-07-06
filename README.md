@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 376 active links in the dataset.
+material. There is a total of 378 active links in the dataset.
 
 # ✨ Life
 
@@ -383,6 +383,10 @@ material. There is a total of 376 active links in the dataset.
 -   [En dash, em dash and hyphen; what’s the difference? (also ndash and
     mdash, or n-dash and
     m-dash)](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
+-   [Common Bugs in
+    Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
+-   [Common Errors in Technical
+    Writing](https://www.ece.ucdavis.edu/~jowens/commonerrors.html)
 
 ## LaTeX
 
