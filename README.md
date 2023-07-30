@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 378 active links in the dataset.
+material. There is a total of 380 active links in the dataset.
 
 # ✨ Life
 
@@ -128,6 +128,8 @@ material. There is a total of 378 active links in the dataset.
     Sick](https://www.legalnomads.com/street-food/)
 -   [150 Most Legendary Restaurants in the World & Their Iconic
     Dishes](https://www.tasteatlas.com/iconic-dishes-legendary-restaurants)
+-   [Recipe Websites Master
+    List](https://github.com/smeckledorfed/Recipes-Master-List)
 
 # ⚗️Science
 
@@ -214,6 +216,8 @@ material. There is a total of 378 active links in the dataset.
     e](https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/)
 -   [Everything You Always Wanted To Know About
     Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+-   [Matrices and
+    graphs](https://thepalindrome.org/p/matrices-and-graphs)
 
 # 💰 Economics
 
