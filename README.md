@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 380 active links in the dataset.
+material. There is a total of 382 active links in the dataset.
 
 # ✨ Life
 
@@ -601,6 +601,8 @@ material. There is a total of 380 active links in the dataset.
     lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
 -   [Effective Spaced
     Repetition](https://borretti.me/article/effective-spaced-repetition)
+-   [So You Want to Study
+    Philosophy…](https://www.susanrigetti.com/philosophy)
 
 # Language
 
@@ -648,6 +650,8 @@ material. There is a total of 380 active links in the dataset.
     Europe](https://www.youtube.com/watch?v=IQzfprW0Yl0)
 -   [Practical Tips from Years of Traveling The
     World](https://www.legalnomads.com/tips-world-travel/)
+-   [The Case Against
+    Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
 
 # Countries
 
