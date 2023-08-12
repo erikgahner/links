@@ -239,6 +239,15 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+## 🎙️ Podcasts
+
+```{r linksPodcasts, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "podcast") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 ## 🎮 Games
 
 ```{r linksGames, echo=FALSE, message=FALSE, warning=FALSE}

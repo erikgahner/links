@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 382 active links in the dataset.
+material. There is a total of 385 active links in the dataset.
 
 # ✨ Life
 
@@ -108,6 +108,8 @@ material. There is a total of 382 active links in the dataset.
     Menus](https://www.grubstreet.com/2021/06/in-praise-of-small-menus.html)
 -   [The food timeline: food history research
     service](https://foodtimeline.org/)
+-   [The Sad Bastard
+    Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 -   [The Fat Gold Guide to Extra Virgin Olive
     Oil](https://fat.gold/guide/)
 -   [Systematically Improving Espresso: Insights from Mathematical
@@ -512,6 +514,13 @@ material. There is a total of 382 active links in the dataset.
     Classroom](https://musictheory.pugetsound.edu/mt21c/)
 -   [A beginner’s guide to modern classical
     music](https://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4/)
+-   [Rhyme
+    Theory](https://blog.chaselambda.com/2022/05/07/rhyme-theory.html)
+
+## 🎙️ Podcasts
+
+-   [How To F#€k Up An Airport](https://www.radiospaetkauf.com/ber/)
+-   [The Studies Show Podcast](https://www.thestudiesshowpod.com/)
 
 ## 🎮 Games
 
@@ -679,8 +688,6 @@ material. There is a total of 382 active links in the dataset.
 
 ## Netherlands
 
--   [The ultimate guide to visiting
-    Amsterdam](https://www.notion.so/The-ultimate-guide-to-visiting-Amsterdam-2002074140be4a12b9e79f75708be171)
 -   [Amsterdam Coffeeshop Directory](https://www.coffeeshopdirect.com/)
 -   [NOS Nieuws van de Week](https://www.youtube.com/nosnieuwsvandeweek)
 -   [Taxes in the Netherlands: a guide to the Dutch tax
@@ -688,7 +695,6 @@ material. There is a total of 382 active links in the dataset.
 
 ## Germany
 
--   [How To F#€k Up An Airport](https://www.radiospaetkauf.com/ber/)
 -   [All About Berlin](https://allaboutberlin.com/)
 
 ## Italy
@@ -801,6 +807,8 @@ material. There is a total of 382 active links in the dataset.
     History](https://www.youtube.com/@CaptivatingHistory/videos)
 -   [The Analog
     Antiquarian](https://analog-antiquarian.net/2019/01/09/table-of-contents/)
+-   [List of photographs considered the most
+    important](https://en.wikipedia.org/wiki/List_of_photographs_considered_the_most_important)
 
 # 📰 Design
 
