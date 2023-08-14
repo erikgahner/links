@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 385 active links in the dataset.
+material. There is a total of 389 active links in the dataset.
 
 # ✨ Life
 
@@ -47,6 +47,8 @@ material. There is a total of 385 active links in the dataset.
     Life](https://ideopunk.com/blog/tipsforabetterlife)
 -   [Why I Hope to Die at
     75](https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/)
+-   [One Day You’ll Find
+    Yourself](https://www.onedayyoullfindyourself.com/)
 
 # 💼 Work
 
@@ -132,6 +134,8 @@ material. There is a total of 385 active links in the dataset.
     Dishes](https://www.tasteatlas.com/iconic-dishes-legendary-restaurants)
 -   [Recipe Websites Master
     List](https://github.com/smeckledorfed/Recipes-Master-List)
+-   [Ten thousand ways to use
+    chopsticks](https://marcosticks.org/ten-thousand-ways/)
 
 # ⚗️Science
 
@@ -320,6 +324,10 @@ material. There is a total of 385 active links in the dataset.
     Anonymity](https://anonymousplanet-ng.org/)
 -   [Wi-Fine](https://wifine.gitlab.io/)
 -   [Use RSS for privacy and efficiency](https://rsapkf.org/weblog/q2z)
+-   [Protecting yourself from phone
+    theft](https://codebutler.notion.site/codebutler/Protecting-yourself-from-phone-theft-480acc843e1f462c8f353ffaa14a42ae)
+-   [Living without a smartphone: The definitive
+    guide](https://insanelyfree.substack.com/p/living-without-a-smartphone-the-definitive)
 
 # ⚖️ Ethics
 
