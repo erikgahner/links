@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 389 active links in the dataset.
+material. There is a total of 391 active links in the dataset.
 
 # ✨ Life
 
@@ -328,6 +328,8 @@ material. There is a total of 389 active links in the dataset.
     theft](https://codebutler.notion.site/codebutler/Protecting-yourself-from-phone-theft-480acc843e1f462c8f353ffaa14a42ae)
 -   [Living without a smartphone: The definitive
     guide](https://insanelyfree.substack.com/p/living-without-a-smartphone-the-definitive)
+-   [A Quickstart Guide to
+    Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
 
 # ⚖️ Ethics
 
@@ -524,6 +526,8 @@ material. There is a total of 389 active links in the dataset.
     music](https://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4/)
 -   [Rhyme
     Theory](https://blog.chaselambda.com/2022/05/07/rhyme-theory.html)
+-   [What Makes Music Sound
+    Good?](https://dmitri.mycpanel.princeton.edu/files/pdfs/MUS105handouts.pdf)
 
 ## 🎙️ Podcasts
 
