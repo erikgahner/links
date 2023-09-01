@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 391 active links in the dataset.
+material. There is a total of 393 active links in the dataset.
 
 # ✨ Life
 
@@ -224,6 +224,8 @@ material. There is a total of 391 active links in the dataset.
     Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 -   [Matrices and
     graphs](https://thepalindrome.org/p/matrices-and-graphs)
+-   [The Princeton Companion to
+    Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
 
 # 💰 Economics
 
@@ -891,3 +893,5 @@ material. There is a total of 391 active links in the dataset.
     Feet](https://archive.vanityfair.com/article/2009/1/the-devil-at-37000-feet)
 -   [The age of
     average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+-   [In This Essay I Will: On
+    Distraction](https://www.theparisreview.org/blog/2023/08/23/in-this-essay-i-will-on-distraction/)
