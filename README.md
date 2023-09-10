@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 393 active links in the dataset.
+material. There is a total of 395 active links in the dataset.
 
 # ✨ Life
 
@@ -535,6 +535,8 @@ material. There is a total of 393 active links in the dataset.
 
 -   [How To F#€k Up An Airport](https://www.radiospaetkauf.com/ber/)
 -   [The Studies Show Podcast](https://www.thestudiesshowpod.com/)
+-   [Conversations with Tyler](https://conversationswithtyler.com/)
+-   [EconTalk](https://www.econtalk.org/)
 
 ## 🎮 Games
 
