@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 395 active links in the dataset.
+material. There is a total of 397 active links in the dataset.
 
 # ✨ Life
 
@@ -332,6 +332,8 @@ material. There is a total of 395 active links in the dataset.
     guide](https://insanelyfree.substack.com/p/living-without-a-smartphone-the-definitive)
 -   [A Quickstart Guide to
     Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
+-   [How I stay reasonably anonymous
+    online](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
 
 # ⚖️ Ethics
 
@@ -364,6 +366,8 @@ material. There is a total of 395 active links in the dataset.
 -   [The Humble Brilliance of Italy’s Moka Coffee
     Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 -   [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
+-   [Version Museum: A visual history of your favorite
+    technology](https://www.versionmuseum.com/)
 
 # 🤔 Reasoning
 
