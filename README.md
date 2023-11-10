@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 397 active links in the dataset.
+material. There is a total of 399 active links in the dataset.
 
 # ✨ Life
 
@@ -368,6 +368,7 @@ material. There is a total of 397 active links in the dataset.
 -   [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
 -   [Version Museum: A visual history of your favorite
     technology](https://www.versionmuseum.com/)
+-   [Internet Artifacts](https://neal.fun/internet-artifacts/)
 
 # 🤔 Reasoning
 
@@ -712,6 +713,7 @@ material. There is a total of 397 active links in the dataset.
 -   [NOS Nieuws van de Week](https://www.youtube.com/nosnieuwsvandeweek)
 -   [Taxes in the Netherlands: a guide to the Dutch tax
     system](https://www.expatica.com/nl/finance/taxes/netherlands-tax-system-103981/)
+-   [Canon of the Netherlands](https://www.canonvannederland.nl/en/)
 
 ## Germany
 
