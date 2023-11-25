@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 399 active links in the dataset.
+material. There is a total of 401 active links in the dataset.
 
 # ✨ Life
 
@@ -136,6 +136,7 @@ material. There is a total of 399 active links in the dataset.
     List](https://github.com/smeckledorfed/Recipes-Master-List)
 -   [Ten thousand ways to use
     chopsticks](https://marcosticks.org/ten-thousand-ways/)
+-   [Recursive Recipes](https://recursiverecipes.schollz.com/)
 
 # ⚗️Science
 
@@ -618,6 +619,8 @@ material. There is a total of 399 active links in the dataset.
 -   [How to Get Good at Chess, Fast: A simple, step-by-step guide to
     rapid chess
     improvement](https://www.gautamnarula.com/how-to-get-good-at-chess-fast/)
+-   [The Best Way To Do
+    Exercises](https://zwischenzug.substack.com/p/the-best-way-to-do-exercises)
 
 # 🎓 Knowledge
 
