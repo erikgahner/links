@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 401 active links in the dataset.
+material. There is a total of 404 active links in the dataset.
 
 # ✨ Life
 
@@ -95,6 +95,8 @@ material. There is a total of 401 active links in the dataset.
     advice](https://github.com/petermekhaeil/salary-negotiating)
 -   [Changes from academia to
     industry](https://russellwarne.com/2022/09/25/changes-from-academia-to-industry/)
+-   [Guide to onboarding in a new
+    job](https://www.alexmolas.com/2024/01/18/onboarding.html)
 
 # 🍔 Food
 
@@ -411,6 +413,7 @@ material. There is a total of 401 active links in the dataset.
     Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 -   [Common Errors in Technical
     Writing](https://www.ece.ucdavis.edu/~jowens/commonerrors.html)
+-   [Writing Well](https://github.com/soodoku/on-writing/)
 
 ## LaTeX
 
@@ -583,6 +586,7 @@ material. There is a total of 401 active links in the dataset.
 -   [Wikitrivia](https://wikitrivia.tomjwatson.com/)
 -   [An Apology for Roger
     Ebert](https://www.youtube.com/watch?v=cvZhRin-plA)
+-   [Card Game Rules](https://www.pagat.com/)
 
 ### ♟️Chess
 
