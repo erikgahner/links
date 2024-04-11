@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 404 active links in the dataset.
+material. There is a total of 406 active links in the dataset.
 
 # ✨ Life
 
@@ -139,6 +139,8 @@ material. There is a total of 404 active links in the dataset.
 -   [Ten thousand ways to use
     chopsticks](https://marcosticks.org/ten-thousand-ways/)
 -   [Recursive Recipes](https://recursiverecipes.schollz.com/)
+-   [How to Taste Whisky the Right
+    Way](https://www.seriouseats.com/whisky-tasting-glasses-7693391)
 
 # ⚗️Science
 
@@ -696,6 +698,11 @@ material. There is a total of 404 active links in the dataset.
 
 -   [Some observations about life in Denmark vs. life in the
     US](https://medium.com/@SergeBelongie/some-observations-about-life-in-denmark-vs-life-in-the-us-dd81ca4949a9)
+
+## Azerbaijan
+
+-   [Notes on Azerbaijan: Part
+    I](https://avrasya.substack.com/p/notes-on-azerbaijan-part-i)
 
 ## United Kingdom
 
