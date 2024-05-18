@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 406 active links in the dataset.
+material. There is a total of 409 active links in the dataset.
 
 # ✨ Life
 
@@ -374,6 +374,7 @@ material. There is a total of 406 active links in the dataset.
 -   [Version Museum: A visual history of your favorite
     technology](https://www.versionmuseum.com/)
 -   [Internet Artifacts](https://neal.fun/internet-artifacts/)
+-   [Explain that Stuff](https://www.explainthatstuff.com/)
 
 # 🤔 Reasoning
 
@@ -589,6 +590,10 @@ material. There is a total of 406 active links in the dataset.
 -   [An Apology for Roger
     Ebert](https://www.youtube.com/watch?v=cvZhRin-plA)
 -   [Card Game Rules](https://www.pagat.com/)
+-   [The History of Tetris World
+    Records](https://www.youtube.com/watch?v=mOJlg8g8_yw)
+-   [Mario meets
+    Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 
 ### ♟️Chess
 
