@@ -11,84 +11,86 @@ knitr::opts_chunk$set(comment = NULL, echo = FALSE, message = FALSE, warning = F
 ```{r introCode, echo=FALSE, message=FALSE, warning=FALSE}
 library("tidyverse")
 library("kableExtra")
+
 df_raw <- read_csv("data.csv")
-df <- df_raw |> 
-   transmute(title = paste0("[", title, "](", url, ")"), category)
+
+df <- df_raw |>
+    transmute(title = paste0("[", title, "](", url, ")"), category)
 
 ```
 
-The repository consists of a dataset with curated links to great material. There is a total of `r NROW(df)` active links in the dataset. 
+The repository consists of a dataset with curated links to great material. There is a total of `r NROW(df)` active links in the dataset.
 
 # ✨ Life
 
 ```{r linksLife, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "life") |> 
-  pull(title) |> 
-  pander::pandoc.list(add.end.of.list = FALSE)
+df |>
+    filter(category == "life") |>
+    pull(title) |>
+    pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 
 # 💼 Work
 
 ```{r linksWork, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "work") |> 
-  pull(title) |> 
+df |>
+  filter(category == "work") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 🍔 Food
 
 ```{r linksFood, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "food") |> 
-  pull(title) |> 
+df |>
+  filter(category == "food") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # ⚗️Science
 
 ```{r linksScience, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "science") |> 
-  pull(title) |> 
+df |>
+  filter(category == "science") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## 🧬 Biology
 
 ```{r linksBiology, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "biology") |> 
-  pull(title) |> 
+df |>
+  filter(category == "biology") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## 🌠 Physics
 
 ```{r linksPhysics, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "physics") |> 
-  pull(title) |> 
+df |>
+  filter(category == "physics") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## 🧠 Psychology
 
 ```{r linksPsychology, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "psychology") |> 
-  pull(title) |> 
+df |>
+  filter(category == "psychology") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 📐 Mathematics
 
 ```{r linksMathematics, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "mathematics") |> 
-  pull(title) |> 
+df |>
+  filter(category == "mathematics") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
@@ -96,99 +98,99 @@ df |>
 # 💰 Economics
 
 ```{r linksEconomics, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "economics") |> 
-  pull(title) |> 
+df |>
+  filter(category == "economics") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 🌍 Climate
 
 ```{r linksClimate, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "climate") |> 
-  pull(title) |> 
+df |>
+  filter(category == "climate") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 🌳 Nature
 
 ```{r linksNature, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "nature") |> 
-  pull(title) |> 
+df |>
+  filter(category == "nature") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 💼 Business
 
 ```{r linksBusiness, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "business") |> 
-  pull(title) |> 
+df |>
+  filter(category == "business") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 💻 Programming
 
 ```{r linksProgramming, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "programming") |> 
-  pull(title) |> 
+df |>
+  filter(category == "programming") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 🔒 Privacy
 
 ```{r linksPrivacy, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "privacy") |> 
-  pull(title) |> 
+df |>
+  filter(category == "privacy") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # ⚖️ Ethics
 
 ```{r linksEthics, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "ethics") |> 
-  pull(title) |> 
+df |>
+  filter(category == "ethics") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 🌐 Technology
 
 ```{r linksTechnology, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "technology") |> 
-  pull(title) |> 
+df |>
+  filter(category == "technology") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 🤔 Reasoning
 
 ```{r linksReasoning, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "reasoning") |> 
-  pull(title) |> 
+df |>
+  filter(category == "reasoning") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # ✍️ Writing
 
 ```{r linksWriting, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "writing") |> 
-  pull(title) |> 
+df |>
+  filter(category == "writing") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## LaTeX
 
 ```{r linksLaTeX, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "latex") |> 
-  pull(title) |> 
+df |>
+  filter(category == "latex") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
@@ -197,108 +199,108 @@ df |>
 ## 🎨 Art
 
 ```{r linksArt, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "art") |> 
-  pull(title) |> 
+df |>
+  filter(category == "art") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## 📚 Books
 
 ```{r linksBooks, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "books") |> 
-  pull(title) |> 
+df |>
+  filter(category == "books") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## 🎬 Movies
 
 ```{r linksMovies, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "movies") |> 
-  pull(title) |> 
+df |>
+  filter(category == "movies") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## 📺 TV
 
 ```{r linksTV, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "tv") |> 
-  pull(title) |> 
+df |>
+  filter(category == "tv") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## 🎵 Music
 
 ```{r linksMusic, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "music") |> 
-  pull(title) |> 
+df |>
+  filter(category == "music") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## 🎙️ Podcasts
 
 ```{r linksPodcasts, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "podcast") |> 
-  pull(title) |> 
+df |>
+  filter(category == "podcast") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## 🎮 Games
 
 ```{r linksGames, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "games") |> 
-  pull(title) |> 
+df |>
+  filter(category == "games") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ### ♟️Chess
 
 ```{r linksChess, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "chess") |> 
-  pull(title) |> 
+df |>
+  filter(category == "chess") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 🎓 Knowledge
 
 ```{r linksKnowledge, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "knowledge") |> 
-  pull(title) |> 
+df |>
+  filter(category == "knowledge") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # Language
 
 ```{r linksLanguage, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "language") |> 
-  pull(title) |> 
+df |>
+  filter(category == "language") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## English
 
 ```{r linksEnglish, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "english") |> 
-  pull(title) |> 
+df |>
+  filter(category == "english") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # ✈️ Travel
 
 ```{r linksTravel, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "travel") |> 
-  pull(title) |> 
+df |>
+  filter(category == "travel") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
@@ -307,54 +309,54 @@ df |>
 ## Denmark
 
 ```{r linksDenmark, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "Denmark") |> 
-  pull(title) |> 
+df |>
+  filter(category == "Denmark") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## Azerbaijan
 
 ```{r linksAzerbaijan, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "Azerbaijan") |> 
-  pull(title) |> 
+df |>
+  filter(category == "Azerbaijan") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## United Kingdom
 
 ```{r linksUK, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "UK") |> 
-  pull(title) |> 
+df |>
+  filter(category == "UK") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## Netherlands
 
 ```{r linksNetherlands, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "Netherlands") |> 
-  pull(title) |> 
+df |>
+  filter(category == "Netherlands") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## Germany
 
 ```{r linksGermany, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "Germany") |> 
-  pull(title) |> 
+df |>
+  filter(category == "Germany") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## Italy
 
 ```{r linksItaly, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "Italy") |> 
-  pull(title) |> 
+df |>
+  filter(category == "Italy") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 
 ```
@@ -363,9 +365,9 @@ df |>
 ## Nigeria
 
 ```{r linksNigeria, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "Nigeria") |> 
-  pull(title) |> 
+df |>
+  filter(category == "Nigeria") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 
 ```
@@ -373,117 +375,135 @@ df |>
 ## Russia
 
 ```{r linksRussia, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "Russia") |> 
-  pull(title) |> 
+df |>
+  filter(category == "Russia") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## Egypt
 
 ```{r linksEgypt, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "Egypt") |> 
-  pull(title) |> 
+df |>
+  filter(category == "Egypt") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## Saudi Arabia
 
 ```{r linksSaudiArabia, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "SaudiArabia") |> 
-  pull(title) |> 
+df |>
+  filter(category == "SaudiArabia") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## United States
 
 ```{r linksUS, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "US") |> 
-  pull(title) |> 
+df |>
+  filter(category == "US") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 ## Japan
 
 ```{r linksJapan, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "Japan") |> 
-  pull(title) |> 
+df |>
+    filter(category == "Japan") |>
+    pull(title) |>
+    pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Chile
+
+```{r linksChile, echo=FALSE, message=FALSE, warning=FALSE}
+df |>
+    filter(category == "Chile") |>
+    pull(title) |>
+    pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Indonesia
+
+```{r linksIndonesia, echo=FALSE, message=FALSE, warning=FALSE}
+df |>
+  filter(category == "Indonesia") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 👕 Fashion
 
 ```{r linksFashion, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "fashion") |> 
-  pull(title) |> 
+df |>
+  filter(category == "fashion") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # ⚕️Health
 
 ```{r linksHealth, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "health") |> 
-  pull(title) |> 
+df |>
+  filter(category == "health") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # ⚽ Sport
 
 ```{r linksSport, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "sport") |> 
-  pull(title) |> 
+df |>
+  filter(category == "sport") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 🚦 Transport
 
 ```{r linksTransport, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "transport") |> 
-  pull(title) |> 
+df |>
+  filter(category == "transport") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 📜 Politics
 
 ```{r linksPolitics, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "politics") |> 
-  pull(title) |> 
+df |>
+  filter(category == "politics") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 📖 History
 
 ```{r linksHistory, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "history") |> 
-  pull(title) |> 
+df |>
+  filter(category == "history") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 📰 Design
 
 ```{r linksDesign, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "design") |> 
-  pull(title) |> 
+df |>
+  filter(category == "design") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
 # 🏢 Architecture
 
 ```{r linksArchitecture, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "architecture") |> 
-  pull(title) |> 
+df |>
+  filter(category == "architecture") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
@@ -491,8 +511,8 @@ df |>
 # ✒️ Essays
 
 ```{r linksEssays, echo=FALSE, message=FALSE, warning=FALSE}
-df |> 
-  filter(category == "essay") |> 
-  pull(title) |> 
+df |>
+  filter(category == "essay") |>
+  pull(title) |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```

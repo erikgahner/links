@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 409 active links in the dataset.
+material. There is a total of 414 active links in the dataset.
 
 # ✨ Life
 
@@ -339,6 +339,7 @@ material. There is a total of 409 active links in the dataset.
     Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
 -   [How I stay reasonably anonymous
     online](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
+-   [Privacy is sexy](https://privacy.sexy/)
 
 # ⚖️ Ethics
 
@@ -678,6 +679,8 @@ material. There is a total of 409 active links in the dataset.
     Commission](https://ec.europa.eu/info/sites/default/files/styleguide_english_dgt_en.pdf)
 -   [50 Tongue Twisters to improve pronunciation in
     English](https://www.engvid.com/english-resource/50-tongue-twisters-improve-pronunciation/)
+-   [The Mind is a
+    Metaphor](http://metaphors.iath.virginia.edu/metaphors)
 
 # ✈️ Travel
 
@@ -696,6 +699,7 @@ material. There is a total of 409 active links in the dataset.
     World](https://www.legalnomads.com/tips-world-travel/)
 -   [The Case Against
     Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
+-   [Obvious travel advice](https://dynomight.net/travel/)
 
 # Countries
 
@@ -772,6 +776,15 @@ material. There is a total of 409 active links in the dataset.
 
 -   [Recommendations for Japan
     travel](https://www.kalzumeus.com/japan-recommendations/)
+
+## Chile
+
+-   [Why Is Chile So
+    Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
+
+## Indonesia
+
+-   [Brutal birth](https://insidestory.org.au/brutal-birth/)
 
 # 👕 Fashion
 
