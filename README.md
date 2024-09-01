@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 414 active links in the dataset.
+material. There is a total of 418 active links in the dataset.
 
 # ✨ Life
 
@@ -231,6 +231,7 @@ material. There is a total of 414 active links in the dataset.
     graphs](https://thepalindrome.org/p/matrices-and-graphs)
 -   [The Princeton Companion to
     Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
+-   [Linear Algebra Done Right](https://linear.axler.net/)
 
 # 💰 Economics
 
@@ -761,6 +762,10 @@ material. There is a total of 414 active links in the dataset.
 -   [Suez Crisis 1956 (All
     Parts)](https://www.youtube.com/watch?v=lLvqZ1ufLwk)
 
+## Greece
+
+-   [Santorini Travel Guide](https://santorinidave.com/#santorini-guide)
+
 ## Saudi Arabia
 
 -   [Notes on
@@ -776,6 +781,11 @@ material. There is a total of 414 active links in the dataset.
 
 -   [Recommendations for Japan
     travel](https://www.kalzumeus.com/japan-recommendations/)
+
+## Mexico
+
+-   [25 Fascinating Facts about
+    Mexico](https://unchartedterritories.tomaspueyo.com/p/25-fascinating-facts-about-mexico)
 
 ## Chile
 
@@ -863,6 +873,7 @@ material. There is a total of 414 active links in the dataset.
     Antiquarian](https://analog-antiquarian.net/2019/01/09/table-of-contents/)
 -   [List of photographs considered the most
     important](https://en.wikipedia.org/wiki/List_of_photographs_considered_the_most_important)
+-   [D-Day Map](https://dday.nmrn.org.uk/)
 
 # 📰 Design
 
