@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 418 active links in the dataset.
+material. There is a total of 420 active links in the dataset.
 
 # ✨ Life
 
@@ -267,6 +267,8 @@ material. There is a total of 418 active links in the dataset.
     Economics](https://github.com/antontarasenko/awesome-economics)
 -   [Pricing Money: A Beginner’s Guide to Money. Bonds, Futures and
     Swaps](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
+-   [Econoclass: Resources for Economics
+    Teachers](http://econoclass.com/)
 
 # 🌍 Climate
 
@@ -708,6 +710,11 @@ material. There is a total of 418 active links in the dataset.
 
 -   [Some observations about life in Denmark vs. life in the
     US](https://medium.com/@SergeBelongie/some-observations-about-life-in-denmark-vs-life-in-the-us-dd81ca4949a9)
+
+## China
+
+-   [63 Chinese Cuisines: the Complete
+    Guide](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
 
 ## Azerbaijan
 
