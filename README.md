@@ -1,7 +1,7 @@
 # Links
 
 The repository consists of a dataset with curated links to great
-material. There is a total of 420 active links in the dataset.
+material. There is a total of 423 active links in the dataset.
 
 # ✨ Life
 
@@ -232,6 +232,7 @@ material. There is a total of 420 active links in the dataset.
 -   [The Princeton Companion to
     Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
 -   [Linear Algebra Done Right](https://linear.axler.net/)
+-   [Math and Logic Problems](https://aplusclick.org/)
 
 # 💰 Economics
 
@@ -665,6 +666,7 @@ material. There is a total of 420 active links in the dataset.
     List](https://github.com/mattbierner/urban-dictionary-word-list)
 -   [FBI Guide to Internet
     Slang](https://archive.org/details/FBIGuideToInternetSlang/)
+-   [Dictionary of affixes](https://www.affixes.org/)
 
 ## English
 
@@ -788,6 +790,8 @@ material. There is a total of 420 active links in the dataset.
 
 -   [Recommendations for Japan
     travel](https://www.kalzumeus.com/japan-recommendations/)
+-   [Learn Japanese: A Ridiculously Detailed
+    Guide](https://www.tofugu.com/learn-japanese/)
 
 ## Mexico
 
